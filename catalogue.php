@@ -27,17 +27,17 @@
     <tr class="t2">
       <th>Video Example</th>
       <th>This is an example of a video download</th>
-      <th><a href="http://bafybeiczdxda5gtq6ryen3r3okj6fh4jalotfdnih573g4w23xcfyngoxa.ipfs.localhost:8080/?filename=QmULXKtz6Z4gYTdWqSmzSmqhEpmuUcjfdqmEmykV2YBtko">Download link</a></th>
+      <th><a href="https://ipfs.io/ipfs/QmULXKtz6Z4gYTdWqSmzSmqhEpmuUcjfdqmEmykV2YBtko">Download link</a></th>
     </tr>
     <tr class="t2">
       <th>Audio Example</th>
       <th>This is an example of a audio download</th>
-      <th><a href="http://bafybeibifozhwsigdmkmxqkau2c62rl5lb2edfufphgaol6mnj5tckrqzi.ipfs.localhost:8080/?filename=QmR3TfSACEmeHQKznmL5XNi8YSNYSvzGHEyUyavocMWmNq">Download link</a></th>
+      <th><a href="https://ipfs.io/ipfs/QmR3TfSACEmeHQKznmL5XNi8YSNYSvzGHEyUyavocMWmNq">Download link</a></th>
     </tr>
     <tr class="t2">
       <th>PDF Example</th>
       <th>This is an example of a pdf download</th>
-      <th><a href="http://bafybeic77o3vkgjnkqa6lynwzapqn2vljrcgrv4hhltw6elnf4bib3nwja.ipfs.localhost:8080/?filename=QmUoL4RcYVh15YpoutHFTAfiyy5SVfHguzWabN1mR6KRHh">Download link</a></th>
+      <th><a href="https://ipfs.io/ipfs/QmUoL4RcYVh15YpoutHFTAfiyy5SVfHguzWabN1mR6KRHh">Download link</a></th>
     </tr>
   </table>
 
