@@ -14,16 +14,12 @@ h2 {
 }
 
 .t1 {
-    background-color: #FEB47B;
+    background-color: #765285;
+    color: white;
 }
 
 .t2 {
-    background-color: #F5Ab99;
-}
-
-.t3 {
-    background-color: #765285;
-    color: white;
+    background-color: #bfcedb;
 }
 
 header {
