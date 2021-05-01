@@ -18,9 +18,7 @@
   <h2 class="header">မြန်မာဖက်ဒရယ်တက္ကသိုလ်</h2>
   <h2 class="header">Myanmar Federal University</h2>
 
-  <p>Main Contact: Tharaphi Than - <a href="tharaphithan@googlemail.com">tharaphithan@googlemail.com</a></p>
-  <p>Delivery Contact: Hilary Faxon - <a href="faxon@berkeley.edu">faxon@berkeley.edu</a></p>
   <p>Content Contact: ? - <a href="?">?</a></p>
-  <p>Tech Contact: Wesley Ho - <a href="wh395@cornell.edu">wh395@cornell.edu</a></p>
+  <p>Tech Contact: <a href="mmfutech@gmail.com">mmfutech@gmail.com</a></p>
 </body>
 </html>
