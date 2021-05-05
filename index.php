@@ -18,6 +18,8 @@
   </div>
   <h2 class="header">မြန်မာဖက်ဒရယ်တက္ကသိုလ်</h2>
   <h2 class="header">Myanmar Federal University</h2>
+  <h3>VPN Use</h3>
+  <p>We highly recommend that you use a VPN when accesing this website or downloading any of our materials for your own privacy and safety. Two VPNs we suggest are TurboVPN and Express VPN. Please choose one to use.</p>
   <p>
     ဖက်ဒရယ်တက္ကသိုလ်သည် မြန်မာဖက်ဒရယ်ဒီမိုကရေစီအတွက် ဝေဖန်ပိုင်းခြားတွေးခေါ်နိုင်မှုကို အဓိကထားသည့် ပညာရေးမျိုး အခမဲ့သင်ကြားမျှဝေပေးရန် ရည်ရွယ်သည်။ ဤတက္ကသိုလ်သည် ဒီမိုကရေစီလှုပ်ရှားမှုတွင် ပါဝင်နေသည့် မြန်မာကျောင်းသားများ၏ စိတ်ကူးဆန္ဒများကို အကောင်အထည်ဖော်ရာမှ ပေါ်ပေါက်လာခြင်းဖြစ်သည်။ စစ်အစိုးရနှင့် မပူးပေါင်းလိုသော ကျောင်းသူကျောင်းသားများ၊ ဆရာဆရာမများ၊ စစ်အစိုးရဖိနှိပ်မှုအောက်မှ ပြည်သူများအတွက် ဤနေရာသည် စာသင်ခန်းပြင်ပမှ သင်ယူစရာနေရာနှင့်နည်းလမ်းတစ်ခုဖြစ်စေရန် ရည်မှန်းပါသည်။
   </p>

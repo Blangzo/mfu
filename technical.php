@@ -20,7 +20,7 @@
   <h2 class="header">Myanmar Federal University</h2>
 
   <h3>VPN Use</h3>
-  <p>We highly recommend that you use a VPN when accesing this website or downloading any of our materials for your own privacy and safety.</p>
+  <p>We highly recommend that you use a VPN when accesing this website or downloading any of our materials for your own privacy and safety. Two VPNs we suggest are TurboVPN and Express VPN. Please choose one to use.</p>
 
   <h3>Unzipping Files</h3>
   <p>On most android devices, <a href="https://support.google.com/files/answer/9048509?hl=en">Files by Google</a> should be able to help you unzip files to access the content.</p>
