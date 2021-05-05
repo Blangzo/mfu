@@ -19,8 +19,8 @@
   <h2 class="header">မြန်မာဖက်ဒရယ်တက္ကသိုလ်</h2>
   <h2 class="header">Myanmar Federal University</h2>
 
-  <p>General Questions: <a href="cdmpowermm@gmail.com">cdmpowermm@gmail.com</a></p>
+  <p>General Questions: <a href="mailto:cdmpowermm@gmail.com?subject = General Questions">cdmpowermm@gmail.com</a></p>
   <p>Content Contact: ? - <a href="?">?</a></p>
-  <p>Tech Contact: <a href="mmfutech@gmail.com">mmfutech@gmail.com</a></p>
+  <p>Tech Contact: <a href="mailto:mmfutech@gmail.com?subject = Technical Questions">mmfutech@gmail.com</a></p>
 </body>
 </html>
