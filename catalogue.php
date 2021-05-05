@@ -22,7 +22,7 @@
   <table>
     <tr class="t1">
       <th>Name</th>
-      <th>Description</th>
+      <th>File Type</th>
       <th>Download link</th>
     </tr>
     <tr class="t2">
