@@ -28,22 +28,22 @@
     <tr class="t2">
       <th>Free Federal University Guidelines for Content</th>
       <th>pdf file</th>
-      <th><a href="https://ipfs.io/ipfs/QmVLonwE9PsqL1bJSKq4J6M8HmEVK21GCCHtd8N1WBGaRS">Download link</a></th>
+      <th><a href="https://ipfs.io/ipfs/QmVLonwE9PsqL1bJSKq4J6M8HmEVK21GCCHtd8N1WBGaRS?filename=Free%20Federal%20University%20Guidelines%20for%20content.pdf">Download link</a></th>
     </tr>
     <tr class="t2">
       <th>Race and Caste</th>
       <th>Zip File</th>
-      <th><a href="https://ipfs.io/ipfs/QmbRmApFWNvwpMQNeRsUbCGcL3MfJoxEdtmM34CbMQcfek">Download link</a></th>
+      <th><a href="https://ipfs.io/ipfs/QmbRmApFWNvwpMQNeRsUbCGcL3MfJoxEdtmM34CbMQcfek?filename=Race_and_Caste.zip">Download link</a></th>
     </tr>
     <tr class="t2">
       <th>Critical Readinge</th>
       <th>zip file</th>
-      <th><a href="https://ipfs.io/ipfs/QmfK14AXcGG5ru8yd6QwKiMd8jjhVk5pNiKoGK6D3U91on">Download link</a></th>
+      <th><a href="https://ipfs.io/ipfs/QmfK14AXcGG5ru8yd6QwKiMd8jjhVk5pNiKoGK6D3U91on?filename=Critical_Reading.zip">Download link</a></th>
     </tr>
     <tr class="t2">
       <th>SEAsia Cold War</th>
       <th>zip file</th>
-      <th><a href="https://ipfs.io/ipfs/QmSFyejY4AeLW4zP1sxf8KsdLi4Rid5SQ9epojZ9srQgLr">Download link</a></th>
+      <th><a href="https://ipfs.io/ipfs/QmSFyejY4AeLW4zP1sxf8KsdLi4Rid5SQ9epojZ9srQgLr?filename=SEAsia_Cold_War.zip">Download link</a></th>
     </tr>
   </table>
 
