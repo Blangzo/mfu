@@ -14,6 +14,7 @@
     <a href="index.php">Home</a>
     <a class="active" href="catalogue.php">Catalogue</a>
     <a href="contact.php">Contact</a>
+    <a href="technical.php">Technical</a>
   </div>
   <h2 class="header">မြန်မာဖက်ဒရယ်တက္ကသိုလ်</h2>
   <h2 class="header">Myanmar Federal University</h2>
@@ -25,19 +26,24 @@
       <th>Download link</th>
     </tr>
     <tr class="t2">
-      <th>Video Example</th>
-      <th>This is an example of a video download</th>
-      <th><a href="https://ipfs.io/ipfs/QmULXKtz6Z4gYTdWqSmzSmqhEpmuUcjfdqmEmykV2YBtko">Download link</a></th>
+      <th>Free Federal University Guidelines for Content</th>
+      <th>pdf file</th>
+      <th><a href="https://ipfs.io/ipfs/QmVLonwE9PsqL1bJSKq4J6M8HmEVK21GCCHtd8N1WBGaRS">Download link</a></th>
     </tr>
     <tr class="t2">
-      <th>Audio Example</th>
-      <th>This is an example of a audio download</th>
-      <th><a href="https://ipfs.io/ipfs/QmR3TfSACEmeHQKznmL5XNi8YSNYSvzGHEyUyavocMWmNq">Download link</a></th>
+      <th>Race and Caste</th>
+      <th>Zip File</th>
+      <th><a href="https://ipfs.io/ipfs/QmbRmApFWNvwpMQNeRsUbCGcL3MfJoxEdtmM34CbMQcfek">Download link</a></th>
     </tr>
     <tr class="t2">
-      <th>PDF Example</th>
-      <th>This is an example of a pdf download</th>
-      <th><a href="https://ipfs.io/ipfs/QmUoL4RcYVh15YpoutHFTAfiyy5SVfHguzWabN1mR6KRHh">Download link</a></th>
+      <th>Critical Readinge</th>
+      <th>zip file</th>
+      <th><a href="https://ipfs.io/ipfs/QmfK14AXcGG5ru8yd6QwKiMd8jjhVk5pNiKoGK6D3U91on">Download link</a></th>
+    </tr>
+    <tr class="t2">
+      <th>SEAsia Cold War</th>
+      <th>zip file</th>
+      <th><a href="https://ipfs.io/ipfs/QmSFyejY4AeLW4zP1sxf8KsdLi4Rid5SQ9epojZ9srQgLr">Download link</a></th>
     </tr>
   </table>
 

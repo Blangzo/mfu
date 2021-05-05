@@ -37,6 +37,9 @@ td,th {
     border-color: #000000;
     text-align: center;
 }
+/* alternating gray and white table colors */
+/* #ededed for gray */
+/* #a0a0a0 for the border lines between entries */
 
 p {
     margin-left: 20%;

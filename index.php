@@ -14,6 +14,7 @@
     <a class="active" href="index.php">Home</a>
     <a href="catalogue.php">Catalogue</a>
     <a href="contact.php">Contact</a>
+    <a href="technical.php">Technical</a>
   </div>
   <h2 class="header">မြန်မာဖက်ဒရယ်တက္ကသိုလ်</h2>
   <h2 class="header">Myanmar Federal University</h2>
