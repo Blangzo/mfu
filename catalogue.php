@@ -36,7 +36,7 @@
       <th><a href="https://ipfs.io/ipfs/QmbRmApFWNvwpMQNeRsUbCGcL3MfJoxEdtmM34CbMQcfek?filename=Race_and_Caste.zip">Download link</a></th>
     </tr>
     <tr class="t2">
-      <th>Critical Readinge</th>
+      <th>Critical Readings</th>
       <th>zip file</th>
       <th><a href="https://ipfs.io/ipfs/QmfK14AXcGG5ru8yd6QwKiMd8jjhVk5pNiKoGK6D3U91on?filename=Critical_Reading.zip">Download link</a></th>
     </tr>
