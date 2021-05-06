@@ -19,7 +19,8 @@
   <h2 class="header">မြန်မာဖက်ဒရယ်တက္ကသိုလ်</h2>
   <h2 class="header">Myanmar Federal University</h2>
   <h3>VPN Use</h3>
-  <p>We highly recommend that you use a VPN when accesing this website or downloading any of our materials for your own privacy and safety. Two VPNs we suggest are TurboVPN and Express VPN. Please choose one to use.</p>
+  <p>We highly recommend that you use a VPN when accesing this website or downloading any of our materials for your own privacy and safety. Please see the technical page for a list of VPN suggestions.</p>
+
   <p>
     ဖက်ဒရယ်တက္ကသိုလ်သည် မြန်မာဖက်ဒရယ်ဒီမိုကရေစီအတွက် ဝေဖန်ပိုင်းခြားတွေးခေါ်နိုင်မှုကို အဓိကထားသည့် ပညာရေးမျိုး အခမဲ့သင်ကြားမျှဝေပေးရန် ရည်ရွယ်သည်။ ဤတက္ကသိုလ်သည် ဒီမိုကရေစီလှုပ်ရှားမှုတွင် ပါဝင်နေသည့် မြန်မာကျောင်းသားများ၏ စိတ်ကူးဆန္ဒများကို အကောင်အထည်ဖော်ရာမှ ပေါ်ပေါက်လာခြင်းဖြစ်သည်။ စစ်အစိုးရနှင့် မပူးပေါင်းလိုသော ကျောင်းသူကျောင်းသားများ၊ ဆရာဆရာမများ၊ စစ်အစိုးရဖိနှိပ်မှုအောက်မှ ပြည်သူများအတွက် ဤနေရာသည် စာသင်ခန်းပြင်ပမှ သင်ယူစရာနေရာနှင့်နည်းလမ်းတစ်ခုဖြစ်စေရန် ရည်မှန်းပါသည်။
   </p>
@@ -29,7 +30,7 @@
   <p>
     ကျောင်းသူကျောင်းသားများနှင့် ဆရာဆရာမများသည် မြန်မာ့ဖက်ဒရယ်ဒီမိုကရေစီအရေးအတွက် ဤနေရာတွင် တစ်စိတ်တစ်ဝမ်းတည်း လာရောက်တော်လှန်သင်ကြားကြပါမည်။ မြောက်ဖျား ရဝမ်ဘာသာဖြင့်ခေါ်သော ရာဇီတောင်များမှ အနောက်ဘက် ရိုးမများအကြား၊ အရှေ့ဘက်နှင့်တောင်ဘက် သံလွင်မြစ်ကမ်းများပေါ်၊ အလယ်ပိုင်းဧရာဝတီမြေနုလွင်ပြင်များ၌ ဖက်ဒရယ်တက္ကသိုလ်အသီးသီးပေါ်လာသည့် တစ်နေ့၌ ဤနေရာကို ထိုတက္ကသိုလ်များသို့ လွှဲပြောင်းပေးသွားမည် ဖြစ်ပါသည်။
   </p>
-
+  <h3>Mission Statement</h3>
   <p>The Virtual Federal University aims to provide a free, critical education for Myanmar federal democracy. Envisioned by Myanmar students who are currently taking part in the democracy movement from within the country, the Virtual Federal University provides a portal for alternative teaching and learning for faculty and students who refuse to cooperate with the Myanmar junta, as well as to those facing persecution by the regime.
   </p>
   <p>

@@ -20,7 +20,16 @@
   <h2 class="header">Myanmar Federal University</h2>
 
   <h3>VPN Use</h3>
-  <p>We highly recommend that you use a VPN when accesing this website or downloading any of our materials for your own privacy and safety. Two VPNs we suggest are TurboVPN and Express VPN. Please choose one to use.</p>
+  <p>We highly recommend that you use a VPN when accesing this website or downloading any of our materials for your own privacy and safety. Some suggested free VPNs include:</p>
+  <ul>
+    <li>Turbo VPN</li>
+    <li>1.1.1.1</li>
+    <li>Windscibe Free</li>
+    <li>TunnelBear</li>
+    <li>Hide.me Free</li>
+    <li>Avira Free VPN</li>
+  </ul>
+  <p>Higher quality VPN options exist. These provide unlimited data use so you don't have to worry about running out, but aren't necessary (try switching between free VPNs). Two suggestions are Express VPN and Nord VPN</p>
 
   <h3>Unzipping Files</h3>
   <p>On most android devices, <a href="https://support.google.com/files/answer/9048509?hl=en">Files by Google</a> should be able to help you unzip files to access the content.</p>
