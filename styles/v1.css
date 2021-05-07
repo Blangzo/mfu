@@ -105,3 +105,8 @@ th, td {
   background-color: #765285;
   color: white;
 }
+
+ul {
+  margin-left: 20%;
+  margin-right: 20%;
+}

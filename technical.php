@@ -22,6 +22,7 @@
   <h3>VPN Use</h3>
   <p>We highly recommend that you use a VPN when accesing this website or downloading any of our materials for your own privacy and safety. Some suggested free VPNs include:</p>
   <ul>
+    <li>Proton VPN</li>
     <li>Turbo VPN</li>
     <li>1.1.1.1</li>
     <li>Windscibe Free</li>
