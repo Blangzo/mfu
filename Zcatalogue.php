@@ -148,7 +148,7 @@
 				<td>Zip</td>
 				<td>16.1 MB</td>
         <td>EN</td>
-				<td><a href="https://ipfs.io/ipfs/QmfK14AXcGG5ru8yd6QwKiMd8jjhVk5pNiKoGK6D3U91on?filename=Critical_Reading.zip">Download link</a></td>
+				<td><a href="https://ipfs.io/ipfs/QmXovPtcoV5wB2rakmZ6ebuhLvhSRjEQSrbDaqjnKtuhax?filename=Critical_Reading.zip">Download link</a></td>
 			</tr>
       <tr>
 				<td>Critical Reading.mp3</td>
@@ -156,7 +156,7 @@
 				<td>MP3</td>
 				<td>14 MB</td>
         <td>MY</td>
-				<td><a href="https://ipfs.io/ipfs/QmTjJuMnTxW41LGn6SaMLwHjz7e96gprm2z1ojhtXPBYaw?filename=Critical%20reading.mp3">Download link</a></td>
+				<td><a href="https://ipfs.io/ipfs/QmfVV1DZP4a8CeMFBFgS82dEM38vcumCZT7wSZW6o7xxwT?filename=Critical%20reading.mp3">Download link</a></td>
 			</tr>
       <tr>
 				<td>Introduction to Critical Reading</td>
