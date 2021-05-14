@@ -49,7 +49,7 @@
         </div>
   </div> -->
   <div class="topnav">
-    <a href="Zindex.php">Home</a>
+    <a href="index.php">Home</a>
     <a class="active" href="Zcatalogue.php">Catalogue</a>
     <a href="contact.php">Contact</a>
     <a href="technical.php">Technical</a>
