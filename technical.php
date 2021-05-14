@@ -25,7 +25,7 @@
   </div>
   <div class="alert alert-warning mb-3">
             <span class="oi oi-warning"></span>
-            We highly recommend that you use a VPN when accesing this website or downloading any of our materials for your own privacy and safety. Please see below for a list of VPN suggetions.
+            We highly recommend that you use a VPN when accessing this website or downloading any of our materials for your own privacy and safety. Please see below for a list of VPN suggetions.
  </div>
   <div class="mb-2 mt-2">
       <h2 class="title-color mb-3 text-center">မြန်မာဖက်ဒရယ်တက္ကသိုလ်</h2>
