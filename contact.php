@@ -6,21 +6,38 @@
   <meta name="Wesley Ho" content="MFU" />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="stylesheet" type="text/css" href="styles/v1.css"/>
+  <!--<link rel="stylesheet" type="text/css" href="styles/v1.css"/>-->
+
+  <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="lib/bootstrap/dist/css/open-iconic-bootstrap.min.css" />
+  <link rel="stylesheet" href="lib/DataTables/datatables.min.css" />
+  <link rel="stylesheet" href="styles/site.css" />
+  <link rel="stylesheet" href="styles/efa.css" />
+  <link rel="stylesheet" type="text/css" href="styles/topnav.css"/>
 </head>
 
 <body>
   <div class="topnav">
-    <a href="index.php">Home</a>
-    <a href="catalogue.php">Catalogue</a>
+    <a href="Zindex.php">Home</a>
+    <a href="Zcatalogue.php">Catalogue</a>
     <a class="active" href="contact.php">Contact</a>
     <a href="technical.php">Technical</a>
   </div>
-  <h2 class="header">မြန်မာဖက်ဒရယ်တက္ကသိုလ်</h2>
-  <h2 class="header">Myanmar Federal University</h2>
-
-  <p>General Questions: <a href="mailto:cdmpowermm@gmail.com">cdmpowermm@gmail.com</a></p>
-  <p>Content Contact: <a href="mailto:mmfucontent@gmail.com">mmfucontent@gmail.com</a></p>
-  <p>Tech Contact: <a href="mailto:mmfutech@gmail.com">mmfutech@gmail.com</a></p>
+  <div class="alert alert-warning mb-3">
+            <span class="oi oi-warning"></span>
+            We highly recommend that you use a VPN when accesing this website or downloading any of our materials for your own privacy and safety.
+            Please see the technical page for a list of VPN suggestions.
+ </div>
+  <div class="mb-2 mt-2">
+      <h2 class="title-color mb-3 text-center">မြန်မာဖက်ဒရယ်တက္ကသိုလ်</h2>
+      <h2 class="title-color mb-2 text-center">Myanmar Federal University</h2>
+  </div>
+  <div class="mb-4 mt-4">
+      <div class="mb-2 mt-3 text-center">
+        <p>General Questions: <a href="mailto:cdmpowermm@gmail.com">cdmpowermm@gmail.com</a></p>
+        <p>Content Contact: <a href="?">tbd</a></p>
+        <p>Tech Contact: <a href="mailto:mmfutech@gmail.com">mmfutech@gmail.com</a></p>
+      </div>
+  </div>
 </body>
 </html>
