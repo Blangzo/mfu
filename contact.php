@@ -3,6 +3,7 @@
 
 <head>
   <title>မြန်မာဖက်ဒရယ်တက္ကသိုလ်</title>
+  <link rel="icon" sizes="16x16 32x32 64x64" href="vfulogoonly.ico"/>
   <meta name="Wesley Ho" content="MFU" />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
