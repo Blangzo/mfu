@@ -2,7 +2,7 @@
 <html lang="my">
 
 <head>
-  <title>မြန်မာဖက်ဒရယ်တက္ကသိုလ်</title>
+  <title>ဖက်ဒရယ် တက္ကသိုလ်</title>
   <link rel="icon" sizes="16x16 32x32 64x64" href="vfulogoonly.ico"/>
   <meta name="Wesley Ho" content="MFU" />
   <meta charset="UTF-8" />
@@ -29,8 +29,8 @@
             We highly recommend that you use a VPN when accessing this website or downloading any of our materials for your own privacy and safety. Please see below for a list of VPN suggetions. The VFU will never ask for your private information or for fees or donations from studets. If you receive requests like this please let us know.
  </div>
   <div class="mb-2 mt-2">
-      <h2 class="title-color mb-3 text-center">မြန်မာဖက်ဒရယ်တက္ကသိုလ်</h2>
-      <h2 class="title-color mb-2 text-center">Myanmar Federal University</h2>
+      <h2 class="title-color mb-3 text-center">ဖက်ဒရယ် တက္ကသိုလ်</h2>
+      <h2 class="title-color mb-2 text-center">Virtual Federal University</h2>
   </div>
   <div class="mb-4 mt-4">
       <div class="mb-2 mt-3 text-center">

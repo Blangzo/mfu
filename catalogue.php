@@ -2,7 +2,7 @@
 <html lang="my">
 
 <head>
-  <title>မြန်မာဖက်ဒရယ်တက္ကသိုလ်</title>
+  <title>ဖက်ဒရယ် တက္ကသိုလ်</title>
   <link rel="icon" sizes="16x16 32x32 64x64" href="vfulogoonly.ico"/>
   <meta name="Wesley Ho" content="MFU" />
   <meta charset="UTF-8" />
@@ -17,8 +17,8 @@
     <a href="contact.php">Contact</a>
     <a href="technical.php">Technical</a>
   </div>
-  <h2 class="header">မြန်မာဖက်ဒရယ်တက္ကသိုလ်</h2>
-  <h2 class="header">Myanmar Federal University</h2>
+  <h2 class="header">ဖက်ဒရယ် တက္ကသိုလ်</h2>
+  <h2 class="header">Virtual Federal University</h2>
 
   <table>
     <tr class="t1">

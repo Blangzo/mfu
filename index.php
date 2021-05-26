@@ -2,7 +2,7 @@
 <html lang="my">
 
 <head>
-  <title>မြန်မာဖက်ဒရယ်တက္ကသိုလ်</title>
+  <title>မဖက်ဒရယ် တက္ကသိုလ်</title>
   <link rel="icon" sizes="16x16 32x32 64x64" href="vfulogoonly.ico"/>
 
   <meta name="Wesley Ho" content="MFU" />
@@ -65,7 +65,7 @@
  <img src="vfu_logo.png" alt="VFU Logo" class="vfulogo">
   <div class="body-content">
     <div class="mb-2 mt-2">
-        <h2 class="title-color mb-3 text-center">မဖက်ဒရယ်</h2>
+        <h2 class="title-color mb-3 text-center">ဖက်ဒရယ် တက္ကသိုလ်</h2>
         <h2 class="title-color mb-2 text-center">Virtual Federal University</h2>
     </div>
     <hr />
