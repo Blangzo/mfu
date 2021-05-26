@@ -2,11 +2,12 @@
 <html lang="my">
 
 <head>
-  <title>မြန်မာဖက်ဒရယ်တက္ကသိုလ်</title>
+  <title>မဖက်ဒရယ် တက္ကသိုလ်</title>
   <meta name="Wesley Ho" content="MFU" />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <!--<link rel="stylesheet" type="text/css" href="styles/v1.css"/>-->
+  <link rel="icon" sizes="16x16 32x32 64x64" href="vfulogoonly.ico"/>
 
   <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
   <link rel="stylesheet" href="lib/bootstrap/dist/css/open-iconic-bootstrap.min.css" />
@@ -61,8 +62,8 @@
  </div>
   <div class="body-content">
     <div class="mb-2 mt-2">
-        <h2 class="title-color mb-3 text-center">မြန်မာဖက်ဒရယ်တက္ကသိုလ်</h2>
-        <h2 class="title-color mb-2 text-center">Myanmar Federal University</h2>
+        <h2 class="title-color mb-3 text-center">မဖက်ဒရယ် တက္ကသိုလ်</h2>
+        <h2 class="title-color mb-2 text-center">Virtual Federal University</h2>
     </div>
 <hr />
  <div class="table-responsive">
