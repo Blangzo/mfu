@@ -58,12 +58,12 @@
   <div class="alert alert-warning mb-3">
             <span class="oi oi-warning"></span>
             We highly recommend that you use a VPN when accessing this website or downloading any of our materials for your own privacy and safety.
-            Please see the <a href="technical.php">technical page</a> for a list of VPN suggestions.
+            Please see the <a href="technical.php">technical page</a> for a list of VPN suggestions. The VFU will never ask for your private information or for fees or donations from studets. If you receive requests like this please let us know.
  </div>
   <div class="body-content">
     <div class="mb-2 mt-2">
-        <h2 class="title-color mb-3 text-center">မြန်မာဖက်ဒရယ်တက္ကသိုလ်</h2>
-        <h2 class="title-color mb-2 text-center">Myanmar Federal University</h2>
+        <h2 class="title-color mb-3 text-center">မဖက်ဒရယ်</h2>
+        <h2 class="title-color mb-2 text-center">Virtual Federal University</h2>
     </div>
     <hr />
     <div class="mb-4 mt-4">
