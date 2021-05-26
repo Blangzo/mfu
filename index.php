@@ -3,11 +3,13 @@
 
 <head>
   <title>မြန်မာဖက်ဒရယ်တက္ကသိုလ်</title>
+  <link rel="icon" sizes="16x16 32x32 64x64" href="vfulogoonly.ico"/>
+
   <meta name="Wesley Ho" content="MFU" />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <!--<link rel="stylesheet" type="text/css" href="styles/v1.css"/>-->
-
+  <link rel="stylesheet" type="text/css" href="styles/v2.css"/>
   <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
   <link rel="stylesheet" href="lib/bootstrap/dist/css/open-iconic-bootstrap.min.css" />
   <link rel="stylesheet" href="lib/DataTables/datatables.min.css" />
@@ -60,6 +62,7 @@
             We highly recommend that you use a VPN when accessing this website or downloading any of our materials for your own privacy and safety.
             Please see the <a href="technical.php">technical page</a> for a list of VPN suggestions. The VFU will never ask for your private information or for fees or donations from studets. If you receive requests like this please let us know.
  </div>
+ <img src="vfu_logo.png" alt="VFU Logo" class="vfulogo">
   <div class="body-content">
     <div class="mb-2 mt-2">
         <h2 class="title-color mb-3 text-center">မဖက်ဒရယ်</h2>
