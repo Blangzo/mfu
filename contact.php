@@ -4,14 +4,14 @@
 <head>
   <title>ဖက်ဒရယ် တက္ကသိုလ်</title>
   <link rel="icon" sizes="16x16 32x32 64x64" href="vfulogoonly.ico"/>
-  <meta name="Wesley Ho" content="MFU" />
+  <meta name="Wesley Ho" content="VFU" />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <!--<link rel="stylesheet" type="text/css" href="styles/v1.css"/>-->
 
   <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
   <link rel="stylesheet" href="lib/bootstrap/dist/css/open-iconic-bootstrap.min.css" />
-  <link rel="stylesheet" href="lib/DataTables/datatables.min.css" />
+  <!-- <link rel="stylesheet" href="lib/DataTables/datatables.min.css" /> -->
   <link rel="stylesheet" href="styles/site.css" />
   <link rel="stylesheet" href="styles/efa.css" />
   <link rel="stylesheet" type="text/css" href="styles/topnav.css"/>
@@ -20,7 +20,7 @@
 <body>
   <div class="topnav">
     <a href="index.php">Home</a>
-    <a href="Zcatalogue.php">Catalogue</a>
+    <a href="catalogue.php">Catalogue</a>
     <a class="active" href="contact.php">Contact</a>
     <a href="technical.php">Technical</a>
   </div>

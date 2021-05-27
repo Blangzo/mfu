@@ -5,14 +5,14 @@
   <title>မဖက်ဒရယ် တက္ကသိုလ်</title>
   <link rel="icon" sizes="16x16 32x32 64x64" href="vfulogoonly.ico"/>
 
-  <meta name="Wesley Ho" content="MFU" />
+  <meta name="Wesley Ho" content="VFU" />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <!--<link rel="stylesheet" type="text/css" href="styles/v1.css"/>-->
   <link rel="stylesheet" type="text/css" href="styles/v2.css"/>
   <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
   <link rel="stylesheet" href="lib/bootstrap/dist/css/open-iconic-bootstrap.min.css" />
-  <link rel="stylesheet" href="lib/DataTables/datatables.min.css" />
+  <!-- <link rel="stylesheet" href="lib/DataTables/datatables.min.css" /> -->
   <link rel="stylesheet" href="styles/site.css" />
   <link rel="stylesheet" href="styles/efa.css" />
   <link rel="stylesheet" type="text/css" href="styles/topnav.css"/>
@@ -20,40 +20,9 @@
 </head>
 
 <body>
-  <!--
-  <div class="navbar-container">
-        <div class="row navbar navbar-inverse navbar-expand">
-        <div class=" navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link navbar-text-color" href="index.php">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link navbar-text-color" href="catalogue.php">Catalogue</a>
-                        </li>
-                         <li class="nav-item dropdown">  this is for example to have dropdown
-                            <a class="nav-link navbar-text-color dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
-                               href="catalogue.php">Catalogue</a>
-                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item" href="#">Action</a>
-                                <a class="dropdown-item" href="#">Another action</a>
-                                <div class="dropdown-divider"></div>
-                                <a class="dropdown-item" href="#">Something else here</a>
-                            </div>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link navbar-text-color" href="contact.php">Contact</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link navbar-text-color"href="technical.php">Technical</a>
-                        </li>
-                    </ul>
-                </div>
-        </div>
-  </div> -->
   <div class="topnav">
     <a class="active" href="index.php">Home</a>
-    <a href="Zcatalogue.php">Catalogue</a>
+    <a href="catalogue.php">Catalogue</a>
     <a href="contact.php">Contact</a>
     <a href="technical.php">Technical</a>
   </div>

@@ -5,3 +5,12 @@
   margin-right: auto;
   width: 50%;
 }
+
+.table .thead-light th {
+    color: white !important;
+    background-color: #2B3980 !important;
+}
+
+table.display tbody tr:nth-child(2n) td {
+    background-color: #e6e8f5 !important;
+}
