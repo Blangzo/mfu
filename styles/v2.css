@@ -5,3 +5,8 @@
   margin-right: auto;
   width: 50%;
 }
+
+p {
+  width: 75%;
+  margin: auto;
+}
