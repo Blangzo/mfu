@@ -1,0 +1,46 @@
+/* .table .thead-light th {
+    color: white !important;
+    background-color: #2B3980 !important;
+} */
+/*
+table.display tbody tr:nth-child(2n) td {
+    background-color: #e6e8f5 !important;
+} */
+
+table {
+	width: 75%;
+	border-collapse: collapse;
+	margin: 20px auto;
+}
+
+th {
+	background: #2B3980; /* that blu color */
+	color: white;
+	font-weight: bold;
+}
+
+td, th {
+	padding: 10px;
+	text-align: left;
+	font-size: 18px;
+}
+
+tr {
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
+
+.labels tr td {
+	background-color: #c7c9d4; /* the gray color on the .labels td's*/
+	font-weight: bold;
+	/* color: #fff; */
+}
+
+.label tr td label {
+	display: block;
+}
+
+
+[data-toggle="toggle"] {
+	display: none;
+}
