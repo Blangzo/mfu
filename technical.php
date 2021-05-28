@@ -8,12 +8,12 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <!--<link rel="stylesheet" type="text/css" href="styles/v1.css"/>-->
-  <link rel="stylesheet" type="text/css" href="styles/v2.css"/>
+
   <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
   <link rel="stylesheet" href="lib/bootstrap/dist/css/open-iconic-bootstrap.min.css" />
   <!-- <link rel="stylesheet" href="lib/DataTables/datatables.min.css" /> -->
-  <link rel="stylesheet" href="styles/site.css" />
-  <link rel="stylesheet" href="styles/efa.css" />
+  <link rel="stylesheet" href="styles/dark-mode/site.css" />
+  <link rel="stylesheet" href="styles/dark-mode/efa.css" />
   <link rel="stylesheet" type="text/css" href="styles/topnav.css"/>
 </head>
 

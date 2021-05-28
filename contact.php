@@ -12,8 +12,8 @@
   <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
   <link rel="stylesheet" href="lib/bootstrap/dist/css/open-iconic-bootstrap.min.css" />
   <!-- <link rel="stylesheet" href="lib/DataTables/datatables.min.css" /> -->
-  <link rel="stylesheet" href="styles/site.css" />
-  <link rel="stylesheet" href="styles/efa.css" />
+  <link rel="stylesheet" href="styles/dark-mode/site.css" />
+  <link rel="stylesheet" href="styles/dark-mode/efa.css" />
   <link rel="stylesheet" type="text/css" href="styles/topnav.css"/>
 </head>
 

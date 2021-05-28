@@ -2,7 +2,7 @@
 <html lang="my">
 
 <head>
-  <title>ဖက်ဒရယ် တက္ကသိုလ်<</title>
+  <title>မဖက်ဒရယ် တက္ကသိုလ်</title>
   <link rel="icon" sizes="16x16 32x32 64x64" href="vfulogoonly.ico"/>
 
   <meta name="Wesley Ho" content="VFU" />
@@ -13,8 +13,8 @@
   <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
   <link rel="stylesheet" href="lib/bootstrap/dist/css/open-iconic-bootstrap.min.css" />
   <!-- <link rel="stylesheet" href="lib/DataTables/datatables.min.css" /> -->
-  <link rel="stylesheet" href="styles/site.css" />
-  <link rel="stylesheet" href="styles/efa.css" />
+  <link rel="stylesheet" href="styles/dark-mode/site.css" />
+  <link rel="stylesheet" href="styles/dark-mode/efa.css" />
   <link rel="stylesheet" type="text/css" href="styles/topnav.css"/>
 
 </head>
