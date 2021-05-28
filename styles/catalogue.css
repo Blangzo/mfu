@@ -26,7 +26,8 @@ td, th {
 }
 
 tr {
-  border: 1px solid #000;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
 }
 
 .labels tr td {
