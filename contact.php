@@ -37,7 +37,7 @@
   </div>
   <div class="mb-4 mt-4">
       <div class="mb-2 mt-3 text-center">
-        <p>General Questions: <a href="mailto:cdmpowermm@gmail.com">cdmpowermm@gmail.com</a></p>
+        <p>General Questions: <a href="mailto:vfu2021@protonmail.comm">vfu2021@protonmail.com</a></p>
         <p>Content Contact: <a href="mailto:mmfucontribute@protonmail.com">mmfucontribute@protonmail.com</a></p>
         <p>Tech Contact: <a href="mailto:mmfutech@gmail.com">mmfutech@gmail.com</a></p>
       </div>
