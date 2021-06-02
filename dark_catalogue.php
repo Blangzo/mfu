@@ -28,8 +28,8 @@
     <a class="active" href="dark_catalogue.php">Catalogue</a>
     <a href="dark_contact.php">Contact</a>
     <a href="dark_technical.php">Technical</a>
-    <a href="catalogue.php" id="light_mode">Light Mode</a>
-    <a class="active" href="dark_catalogue.php" id="dark_mode">Dark Mode</a>
+    <a href="catalogue.php" id="light_mode" class="mode">Light Mode</a>
+    <a class="active mode" href="dark_catalogue.php" id="dark_mode">Dark Mode</a>
   </div>
   <div class="alert alert-warning mb-3">
 	<span class="oi oi-warning"></span>
@@ -152,6 +152,30 @@
  				<td>3 MB</td>
          <td>EN</td>
  				<td><a href="https://ipfs.io/ipfs/QmYzdbhCbZEN7unDuTfUGsagBJ9sQ9Ngihk8vrmuXpbvcn?filename=Introduction%20to%20Critical%20reading%20.pdf">Download link</a></td>
+ 			</tr>
+      <tr>
+ 				<td>Critical Reading transcript in Arakanese</td>
+ 				<td>extra flies (not in zip)</td>
+ 				<td>docx</td>
+ 				<td>27 KB</td>
+        <td>Arakanese</td>
+ 				<td><a href="https://ipfs.io/ipfs/Qmc9ZruK2iPLeU3fBw37VjmGT57JH3xiBMPsVNA2FyVurB?filename=Critical%20Reading%20transcript%20in%20Arakansese.docx">Download link</a></td>
+ 			</tr>
+      <tr>
+ 				<td>Critical Reading Script (Burmese)</td>
+ 				<td>extra flies (not in zip)</td>
+ 				<td>docx</td>
+ 				<td>30 KB</td>
+        <td>MY</td>
+ 				<td><a href="https://ipfs.io/ipfs/QmNnm7SpHndY9V2HxeMWQAfvdEhoxeXdvJTD2mvfqGE1vs?filename=Critical%20Reading%20Script%20(Burmese).docx">Download link</a></td>
+ 			</tr>
+      <tr>
+ 				<td>Critical reading in Arakanese</td>
+ 				<td>extra flies (not in zip)</td>
+ 				<td>MP3</td>
+ 				<td>14.2 MB</td>
+        <td>Arakanese</td>
+ 				<td><a href="https://ipfs.io/ipfs/QmPTngz2X5mAN3CpNiVdaXZNsJJcAZ1qQ5zfJdp5mGrJNs?filename=Critical%20reading%20in%20Arakanese.mp3">Download link</a></td>
  			</tr>
     </tbody>
     <tbody class="labels">

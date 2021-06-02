@@ -23,8 +23,8 @@
     <a href="catalogue.php">Catalogue</a>
     <a class="active" href="contact.php">Contact</a>
     <a href="technical.php">Technical</a>
-    <a class="active" href="contact.php" id="light_mode">Light Mode</a>
-    <a href="dark_contact.php" id="dark_mode">Dark Mode</a>
+    <a class="active mode" href="contact.php" id="light_mode">Light Mode</a>
+    <a href="dark_contact.php" id="dark_mode" class="mode">Dark Mode</a>
   </div>
   <div class="alert alert-warning mb-3">
             <span class="oi oi-warning"></span>

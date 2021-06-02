@@ -26,8 +26,8 @@
     <a href="dark_catalogue.php">Catalogue</a>
     <a href="dark_contact.php">Contact</a>
     <a href="dark_technical.php">Technical</a>
-    <a href="index.php" id="light_mode">Light Mode</a>
-    <a class="active" href="dark_index.php" id="dark_mode">Dark Mode</a>
+    <a href="index.php" id="light_mode" class="mode">Light Mode</a>
+    <a class="active mode" href="dark_index.php" id="dark_mode">Dark Mode</a>
   </div>
   <div class="alert alert-warning mb-3">
             <span class="oi oi-warning"></span>
