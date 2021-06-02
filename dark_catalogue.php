@@ -119,6 +119,14 @@
          <td>MY</td>
  				<td><a href="https://ipfs.io/ipfs/Qmdhjrid7wGNX2iCGSWYXyVw2nb9rx4BZFPupq6vkYAXQL?filename=Race-and-Caste-1-%20Burmese%20Translation.pdf">Download link</a></td>
  			</tr>
+      <tr>
+ 				<td>Race and caste 1_Karen translation</td>
+ 				<td>extra flies (not in zip)</td>
+ 				<td>PDF</td>
+ 				<td>506 KB</td>
+        <td>Karen</td>
+ 				<td><a href="https://ipfs.io/ipfs/Qmf7LHBYf6QY5sNkiLUpz4XjdbfMyHBsXhX6rQSCYeDvtc?filename=Race%20and%20caste%201_Karen%20translation.pdf">Download link</a></td>
+ 			</tr>
     </tbody>
     <tbody class="labels">
       <tr>
