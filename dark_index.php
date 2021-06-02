@@ -13,20 +13,20 @@
   <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
   <link rel="stylesheet" href="lib/bootstrap/dist/css/open-iconic-bootstrap.min.css" />
   <!-- <link rel="stylesheet" href="lib/DataTables/datatables.min.css" /> -->
-  <link rel="stylesheet" href="styles/site.css" />
-  <link rel="stylesheet" href="styles/efa.css" />
+  <link rel="stylesheet" href="styles/dark-mode/site.css" />
+  <link rel="stylesheet" href="styles/dark-mode/efa.css" />
   <link rel="stylesheet" type="text/css" href="styles/topnav.css"/>
 
 </head>
 
 <body>
   <div class="topnav">
-    <a class="active" href="index.php">Home</a>
-    <a href="catalogue.php">Catalogue</a>
-    <a href="contact.php">Contact</a>
-    <a href="technical.php">Technical</a>
-    <a class="active" href="index.php" id="light_mode">Light Mode</a>
-    <a href="dark_index.php" id="dark_mode">Dark Mode</a>
+    <a class="active" href="dark_index.php">Home</a>
+    <a href="dark_catalogue.php">Catalogue</a>
+    <a href="dark_contact.php">Contact</a>
+    <a href="dark_technical.php">Technical</a>
+    <a href="index.php" id="light_mode">Light Mode</a>
+    <a class="active" href="dark_index.php" id="dark_mode">Dark Mode</a>
   </div>
   <div class="alert alert-warning mb-3">
             <span class="oi oi-warning"></span>
