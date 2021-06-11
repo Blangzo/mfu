@@ -21,6 +21,8 @@
 </head>
 
 <body>
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v11.0" nonce="3lDNzyiV"></script>
   <div class="topnav">
     <a class="active" href="dark_index.php">Home</a>
     <a href="dark_catalogue.php">Catalogue</a>
@@ -83,6 +85,7 @@
             <p>
                 We, students and educators, converge here on this portal in a collective struggle towards Myanmar federal democracy. We will hand over this place to stakeholders of the physical federal universities when they emerge in the mountains from Razis of the north to the Yomas in the west, riverbanks of Salween in the east and south, and floodplains of Irrawaddy in the heartland. Please join our journey.
             </p>
+            <p>Join the <a href="https://t.me/federaluniversitymm">telegram</a> to receive updates</p>
         </div>
     </div>
   </div>
