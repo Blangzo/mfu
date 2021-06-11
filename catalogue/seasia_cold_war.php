@@ -15,6 +15,7 @@
   <link rel="stylesheet" href="../styles/site.css" />
   <link rel="stylesheet" href="../styles/efa.css" />
   <link rel="stylesheet" type="text/css" href="../styles/topnav.css"/>
+  <link rel="stylesheet" type="text/css" href="../styles/catalogue.css"/>
 </head>
 
 <body>

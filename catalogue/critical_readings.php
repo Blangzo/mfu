@@ -15,6 +15,7 @@
   <link rel="stylesheet" href="../styles/site.css" />
   <link rel="stylesheet" href="../styles/efa.css" />
   <link rel="stylesheet" type="text/css" href="../styles/topnav.css"/>
+  <link rel="stylesheet" type="text/css" href="../styles/catalogue.css"/>
 </head>
 
 <body>
@@ -31,6 +32,7 @@
       <h2 class="title-color mb-3 text-center">ဖက်ဒရယ် တက္ကသိုလ်</h2>
       <h2 class="title-color mb-2 text-center">Virtual Federal University</h2>
   </div>
+  <div class="cat_body">
   <hr />
   <form>
     <input type="button" value="Back to catalogue" onclick="history.back()">
@@ -39,7 +41,7 @@
       <div class="mb-2 mt-3">
         <h3 class="course">Critical Readings - Instructor name withheld</h3>
           <h4 class="module">Module 1</h4>
-          <p><a href="https://ipfs.io/ipfs/QmXovPtcoV5wB2rakmZ6ebuhLvhSRjEQSrbDaqjnKtuhax?filename=Critical_Reading.zip">Zip File</a></p>
+          <p class="zip file"><a href="https://ipfs.io/ipfs/QmXovPtcoV5wB2rakmZ6ebuhLvhSRjEQSrbDaqjnKtuhax?filename=Critical_Reading.zip">Zip File</a></p>
             <h5 class="i1">Lectures</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmfVV1DZP4a8CeMFBFgS82dEM38vcumCZT7wSZW6o7xxwT?filename=Critical%20reading.mp3">Audio in Burmese</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmPTngz2X5mAN3CpNiVdaXZNsJJcAZ1qQ5zfJdp5mGrJNs?filename=Critical%20reading%20in%20Arakanese.mp3">Audio in Arakanese</a></p>
@@ -49,5 +51,6 @@
               <p class="i2"><a href="https://ipfs.io/ipfs/QmYzdbhCbZEN7unDuTfUGsagBJ9sQ9Ngihk8vrmuXpbvcn?filename=Introduction%20to%20Critical%20reading%20.pdf">Introduction to Critical Reading</a></p>
       </div>
   </div>
+</div>
 </body>
 </html>
