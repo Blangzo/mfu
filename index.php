@@ -28,7 +28,7 @@
     <a class="active mode" href="index.php" id="light_mode">Light Mode</a>
     <a href="dark_index.php" id="dark_mode" class="mode">Dark Mode</a>
   </div>
-  <?php include 'vpn_warning_light.php';?>
+  <?php include 'includes/vpn_warning_light.php';?>
  <img src="vfu_logo.png" alt="VFU Logo" class="vfulogo">
   <div class="body-content">
     <div class="mb-2 mt-2">
