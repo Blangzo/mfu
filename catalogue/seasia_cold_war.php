@@ -33,7 +33,7 @@
       <h2 class="title-color mb-2 text-center">Virtual Federal University</h2>
   </div>
   <hr />
-  <form>
+  <form class="course">
     <input type="button" value="Back to catalogue" onclick="history.back()">
   </form>
   <div class="mb-4 mt-4">

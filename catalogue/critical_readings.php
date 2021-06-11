@@ -34,7 +34,7 @@
   </div>
   <div class="cat_body">
   <hr />
-  <form>
+  <form class="course">
     <input type="button" value="Back to catalogue" onclick="history.back()">
   </form>
   <div class="mb-4 mt-4">
