@@ -86,7 +86,9 @@
         </div>
     </div>
   </div>
-
+  <div class="fbpage">
+    <div class="fb-page" data-href="https://www.facebook.com/VirtualFederalUni/" data-tabs="timeline, events" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-lazy="true"><blockquote cite="https://www.facebook.com/VirtualFederalUni/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/VirtualFederalUni/">Virtual Federal University</a></blockquote></div>
+  </div>
 <script src="lib/jquery/dist/jquery.min.js"></script>
 <script src="lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 <script src="lib/DataTables/datatables.min.js"></script>

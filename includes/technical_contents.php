@@ -2,6 +2,7 @@
     <h2 class="title-color mb-3 text-center">ဖက်ဒရယ် တက္ကသိုလ်</h2>
     <h2 class="title-color mb-2 text-center">Virtual Federal University</h2>
 </div>
+<hr />
 <div class="mb-4 mt-4">
     <div class="mb-2 mt-3">
       <h3 class="technical">VPN Use</h3>
