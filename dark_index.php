@@ -17,7 +17,7 @@
   <link rel="stylesheet" href="styles/dark-mode/site.css" />
   <link rel="stylesheet" href="styles/dark-mode/efa.css" />
   <link rel="stylesheet" type="text/css" href="styles/topnav.css"/>
-
+  <link rel="stylesheet" href="styles/facebook_plugin.css" />
 </head>
 
 <body>
