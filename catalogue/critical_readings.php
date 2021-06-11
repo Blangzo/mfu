@@ -34,8 +34,8 @@
   </div>
   <div class="cat_body">
   <hr />
-  <form class="course" action="../catalogue">
-    <input type="button" value="Back to catalogue">
+  <form class="course">
+    <button onclick="location.href='../catalogue'" type="button">Back to catalogue</button>
   </form>
   <div class="mb-4 mt-4">
       <div class="mb-2 mt-3">
