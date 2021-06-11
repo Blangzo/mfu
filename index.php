@@ -93,7 +93,7 @@
   </div>
 <script src="lib/jquery/dist/jquery.min.js"></script>
 <script src="lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-<script src="lib/DataTables/datatables.min.js"></script>
+<!-- <script src="lib/DataTables/datatables.min.js"></script> -->
 <script src="js/efa.js"></script>
 
 </body>
