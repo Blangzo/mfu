@@ -34,7 +34,7 @@
   </div>
   <hr />
   <form class="course">
-    <button onclick="location.href='../catalogue'" type="button">Back to catalogue</button>
+    <button onclick="location.href='../catalogue.php'" type="button">Back to catalogue</button>
   </form>
   <div class="mb-4 mt-4">
       <div class="mb-2 mt-3">
