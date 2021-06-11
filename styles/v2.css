@@ -14,3 +14,7 @@ p {
 .mode {
   float: right !important;
 }
+
+h3.technical {
+  margin-top: 3em;
+}
