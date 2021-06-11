@@ -16,8 +16,7 @@
   <link rel="stylesheet" href="styles/efa.css" class="dark_css"/>
   <script src="lib/jquery/dist/jquery.min.js"></script>
   <link rel="stylesheet" type="text/css" href="styles/topnav.css"/>
-  <script src="js/catalogue.js"></script>
-  <script src="js/dark.js"></script>
+  <!-- <script src="js/catalogue.js"></script> -->
 </head>
 
 <body>
