@@ -5,7 +5,7 @@
 <hr />
 <div class="mb-4 mt-4">
     <div class="mb-2 mt-3">
-      <h3 class="technical">VPN Use</h3>
+      <h3 class="technical" style="margin-top:1em;">VPN Use</h3>
       <p>We highly recommend that you use a VPN when accesing this website or downloading any of our materials for your own privacy and safety. Some suggested free VPNs include:</p>
       <ul>
         <li><a href="https://protonvpn.com/">Proton VPN</a></li>
@@ -22,7 +22,5 @@
 
       <h3 class="technical">Sharing Files</h3>
       <p>We enocourage students to share our files with anyone and everyone. Zapya is a free app that can help with file transfers between phones. Other options include passing on USB sticks or SD cards. SD cards can also be hidden inside some phones and thrown away if needed.</p>
-
-      <p>Tech Contact: <a href="mmfutech@gmail.com">mmfutech@gmail.com</a></p>
     </div>
 </div>
