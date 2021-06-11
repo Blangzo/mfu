@@ -1,0 +1,21 @@
+@media only screen and (max-width: 240px) {
+  .fbpage {
+    width: 180px;
+    margin: auto;
+  }
+  /* width: 180px; */
+}
+
+@media only screen and (max-width: 666px) {
+  .fbpage {
+    width: 75%;
+    margin: auto;
+  }
+  /* width: 75%; */
+}
+
+.fbpage {
+  width: 500px;
+  margin: auto;
+}
+/* width: 500px; */
