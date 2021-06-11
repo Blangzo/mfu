@@ -27,7 +27,7 @@
     <a class="mode" href="seasia_cold_war.php" id="light_mode">Light Mode</a>
     <a href="dark_seasia_cold_war.php" id="dark_mode" class="active mode">Dark Mode</a>
   </div>
-  <?php include '../includes/vpn_warning_light.php';?>
+
   <div class="mb-2 mt-2">
       <h2 class="title-color mb-3 text-center">ဖက်ဒရယ် တက္ကသိုလ်</h2>
       <h2 class="title-color mb-2 text-center">Virtual Federal University</h2>

@@ -26,10 +26,7 @@
     <a class="active mode" href="technical.php" id="light_mode">Light Mode</a>
     <a href="dark_technical.php" id="dark_mode" class="mode">Dark Mode</a>
   </div>
-  <div class="alert alert-warning mb-3">
-            <span class="oi oi-warning"></span>
-            We highly recommend that you use a VPN when accessing this website or downloading any of our materials for your own privacy and safety. Please see below for a list of VPN suggetions. The VFU will never ask for your private information or for fees or donations from studets. If you receive requests like this please let us know.
-  </div>
+
   <?php include 'includes/technical_contents.php';?>
 </body>
 </html>

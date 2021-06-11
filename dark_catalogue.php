@@ -29,7 +29,6 @@
     <a href="catalogue.php" id="light_mode" class="mode">Light Mode</a>
     <a class="active mode" href="dark_catalogue.php" id="dark_mode">Dark Mode</a>
   </div>
-  <?php include 'includes/vpn_warning_dark.php';?>
 
  <div class="mb-2 mt-2">
      <h2 class="title-color mb-3 text-center">ဖက်ဒရယ် တက္ကသိုလ်</h2>
