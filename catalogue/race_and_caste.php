@@ -24,8 +24,8 @@
     <a class="active" href="../catalogue.php">Catalogue</a>
     <a href="../contact.php">Contact</a>
     <a href="../technical.php">Technical</a>
-    <a class="active mode" href="../contact.php" id="light_mode">Light Mode</a>
-    <a href="../dark_contact.php" id="dark_mode" class="mode">Dark Mode</a>
+    <a class="active mode" href="." id="light_mode">Light Mode</a>
+    <a href="dark_race_and_caste.php" id="dark_mode" class="mode">Dark Mode</a>
   </div>
   <?php include '../includes/vpn_warning_light.php';?>
   <div class="mb-2 mt-2">
