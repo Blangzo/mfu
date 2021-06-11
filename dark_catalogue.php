@@ -18,8 +18,8 @@
 
   <script src="lib/jquery/dist/jquery.min.js"></script>
   <link rel="stylesheet" type="text/css" href="styles/topnav.css"/>
-  <script src="js/catalogue.js"></script>
-  <script src="js/dark.js"></script>
+  <!-- <script src="js/catalogue.js"></script> -->
+  <!-- <script src="js/dark.js"></script> -->
 </head>
 
 <body>
@@ -38,7 +38,7 @@
      <h2 class="title-color mb-2 text-center">Virtual Federal University</h2>
  </div>
  <hr />
- <?php include 'cat_table.php';?>
+ <?php include 'includes/cat_table.php';?>
 
 </body>
 </html>
