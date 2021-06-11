@@ -25,7 +25,7 @@
     <a href="../dark_contact.php">Contact</a>
     <a href="../dark_technical.php">Technical</a>
     <a class="mode" href="seasia_cold_war.php" id="light_mode">Light Mode</a>
-    <a href="." id="dark_mode" class="active mode">Dark Mode</a>
+    <a href="dark_seasia_cold_war.php" id="dark_mode" class="active mode">Dark Mode</a>
   </div>
   <?php include '../includes/vpn_warning_light.php';?>
   <div class="mb-2 mt-2">
