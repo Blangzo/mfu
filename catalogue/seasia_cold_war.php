@@ -24,7 +24,7 @@
     <a class="active" href="../catalogue.php">Catalogue</a>
     <a href="../contact.php">Contact</a>
     <a href="../technical.php">Technical</a>
-    <a class="active mode" href="." id="light_mode">Light Mode</a>
+    <a class="active mode" href="seasia_cold_war.php" id="light_mode">Light Mode</a>
     <a href="dark_seasia_cold_war.php" id="dark_mode" class="mode">Dark Mode</a>
   </div>
 
