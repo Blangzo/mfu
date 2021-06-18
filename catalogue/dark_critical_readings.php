@@ -47,6 +47,12 @@
               <p class="i2"><a href="https://ipfs.io/ipfs/Qmc9ZruK2iPLeU3fBw37VjmGT57JH3xiBMPsVNA2FyVurB?filename=Critical%20Reading%20transcript%20in%20Arakansese.docx">Transcript in Arakanese</a></p>
             <h5 class="i1">Case Studies & Readings</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmYzdbhCbZEN7unDuTfUGsagBJ9sQ9Ngihk8vrmuXpbvcn?filename=Introduction%20to%20Critical%20reading%20.pdf">Introduction to Critical Reading</a></p>
+          <h4 class="module">Module 2</h4>
+            <h5 class="i1">Lectures</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmV5DjwhRQ2pUUiFm3xnYawM1kZWBYTbXgQ9mZfr3taJGD?filename=Critical%20reading%20lesson%202.mp3">Audio</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmQMJssByiqUvWphwM5sJQs6ML8cieakwZ34kpuYnFFeeQ?filename=Critical%20reading%20lesson%202.docx">Transcript</a></p>
+            <h5 class="i1">Exercise</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmU8EuibhZKYbm8DVnbkFtvjTUnzaUX3KYgs3znutLXrSW?filename=Critical%20reading%20lesson%202-%20exercise%20.docx">Lesson 2 Exercise</a></p>
       </div>
   </div>
   <form class="course">
