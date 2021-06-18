@@ -37,7 +37,7 @@
 
   <div class="mb-4 mt-4">
       <div class="mb-2 mt-3">
-        <h3 class="course">Critical Readings - Instructor name withheld</h3>
+        <h3 class="course">Critical Readings by Maw Tun - Northern Illinois University</h3>
           <h4 class="module">Module 1</h4>
           <p class="zip file"><a href="https://ipfs.io/ipfs/QmXovPtcoV5wB2rakmZ6ebuhLvhSRjEQSrbDaqjnKtuhax?filename=Critical_Reading.zip">Zip File</a></p>
             <h5 class="i1">Lectures</h5>
