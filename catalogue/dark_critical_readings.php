@@ -34,9 +34,7 @@
   </div>
   <div class="cat_body">
   <hr />
-  <form class="course">
-    <button onclick="location.href='../dark_catalogue.php'" type="button">Back to catalogue</button>
-  </form>
+
   <div class="mb-4 mt-4">
       <div class="mb-2 mt-3">
         <h3 class="course">Critical Readings - Instructor name withheld</h3>
@@ -51,6 +49,9 @@
               <p class="i2"><a href="https://ipfs.io/ipfs/QmYzdbhCbZEN7unDuTfUGsagBJ9sQ9Ngihk8vrmuXpbvcn?filename=Introduction%20to%20Critical%20reading%20.pdf">Introduction to Critical Reading</a></p>
       </div>
   </div>
+  <form class="course">
+    <button onclick="location.href='../dark_catalogue.php'" type="button">Back to catalogue</button>
+  </form>
 </div>
 </body>
 </html>

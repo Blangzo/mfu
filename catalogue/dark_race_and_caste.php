@@ -33,9 +33,7 @@
       <h2 class="title-color mb-2 text-center">Virtual Federal University</h2>
   </div>
   <hr />
-  <form class="course">
-    <button onclick="location.href='../dark_catalogue.php'" type="button">Back to catalogue</button>
-  </form>
+
   <div class="mb-4 mt-4">
       <div class="mb-2 mt-3">
         <h3 class="course">Race and Caste - Instructor name withheld</h3>
@@ -52,5 +50,8 @@
               <p class="i2"><a href="https://ipfs.io/ipfs/QmYCBnW2XDCGNsGDpE1tGk93DX4z5DNWS4c14RG3XyLm6c?filename=The%20Intimacies%20of%20Four%20Continents%20by%20Lisa%20Lowe%20(z-lib.org).pdf">The Intimacies of Four Continents by Lisa Lowe</a>
       </div>
   </div>
+  <form class="course">
+    <button onclick="location.href='../dark_catalogue.php'" type="button">Back to catalogue</button>
+  </form>
 </body>
 </html>

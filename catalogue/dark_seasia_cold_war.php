@@ -33,9 +33,7 @@
       <h2 class="title-color mb-2 text-center">Virtual Federal University</h2>
   </div>
   <hr />
-  <form class="course">
-    <button onclick="location.href='../dark_catalogue.php'" type="button">Back to catalogue</button>
-  </form>
+
   <div class="mb-4 mt-4">
       <div class="mb-2 mt-3">
         <h3 class="course">SEAsia Cold War - Instructor name withheld</h3>
@@ -49,5 +47,8 @@
               <p class="i2"><a href="https://ipfs.io/ipfs/QmPSfqYHyBmbGXfKwXcYr3GdM9NqhLrzkrsgExuLSho9V8?filename=communism-and-nationalism-in-burma.pdf">Communism and Nationalism in Burma</a></p>
       </div>
   </div>
+  <form class="course">
+    <button onclick="location.href='../dark_catalogue.php'" type="button">Back to catalogue</button>
+  </form>
 </body>
 </html>
