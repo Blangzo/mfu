@@ -82,7 +82,7 @@ tr.blue {
 	color: white;
 }
 
-tr.plain_table {
-	background-color: #FFFFFF; #this didnt get uploaded?
+.plain_table > th {
+	background-color: #FFFFFF;
 	color: black;
 }
