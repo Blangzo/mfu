@@ -4,8 +4,7 @@
 <head>
   <title>ဖက်ဒရယ် တက္ကသိုလ်</title>
   <link rel="icon" sizes="16x16 32x32 64x64" href="vfulogoonly.ico"/>
-
-  <meta name="Wesley Ho" content="VFU" />
+  <meta name="VFU" content="VFU" />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <!--<link rel="stylesheet" type="text/css" href="styles/v1.css"/>-->

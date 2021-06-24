@@ -1,2 +1,2 @@
-# mfu
-Myanmar Federal University Website
+# VFU
+Virtual Federal University Website
