@@ -39,10 +39,10 @@
         <h3 class="course">Intro to Molecular Biology - Instructor name withheld</h3>
         <h5 class="i1"><a href="https://ipfs.io/ipfs/QmUUQG2qf5gD8CdRjkFJPEeQsr77ULvrQb27t5YrvCWGv6?filename=Guidelines%20for%20Intro%20to%20Molecular%20Bio.pdf">Guidelines for Intro to Molecular Biology</a></h5>
         <h5 class="i1">Introduction</h5>
-        <p><a href="https://ipfs.io/ipfs/QmZoMofgDD4ipt1nyM1ymUBDai2YcNrbUTjzV4AVpQA53j?filename=Intro%20to%20Molecular%20Biology_Burmese.pdf">Introduction PDF</a></p>
-        <p><a href="https://ipfs.io/ipfs/Qmf5DJYkT9U7WNLRL8b6uXdVmF4dR9qrfj17NDTTadWmV5?filename=Introduction%20to%20Molecular%20Biology_Burmese.m4a">Introduction audio</a></p>
+        <p class="i2">><a href="https://ipfs.io/ipfs/QmZoMofgDD4ipt1nyM1ymUBDai2YcNrbUTjzV4AVpQA53j?filename=Intro%20to%20Molecular%20Biology_Burmese.pdf">Introduction PDF</a></p>
+        <p class="i2">><a href="https://ipfs.io/ipfs/Qmf5DJYkT9U7WNLRL8b6uXdVmF4dR9qrfj17NDTTadWmV5?filename=Introduction%20to%20Molecular%20Biology_Burmese.m4a">Introduction audio</a></p>
         <h5 class="i1"><a href="https://ipfs.io/ipfs/QmY56qEpC5CnvReMugVU7tHodPtCFRqis4gFdqAXsj7KVV?filename=Biology2e-WEB_ICOFkGu.pdf">Textbook</a></h5>
-        <p>The textbook is also available online <a href="https://openstax.org/details/books/biology-2e">here</a></p>
+        <p class="i2">>The textbook is also available online <a href="https://openstax.org/details/books/biology-2e">here</a></p>
         <table>
           <tr class="blu">
             <th>Lesson</th>
