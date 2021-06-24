@@ -12,10 +12,10 @@
   <link rel="stylesheet" href="../lib/bootstrap/dist/css/bootstrap.min.css" />
   <link rel="stylesheet" href="../lib/bootstrap/dist/css/open-iconic-bootstrap.min.css" />
   <!-- <link rel="stylesheet" href="lib/DataTables/datatables.min.css" /> -->
-  <link rel="stylesheet" href="styles/dark-mode/site.css" class="dark_css"/>
-  <link rel="stylesheet" href="styles/dark-mode/efa.css" class="dark_css"/>
+  <link rel="stylesheet" href="../styles/dark-mode/site.css" class="dark_css"/>
+  <link rel="stylesheet" href="../styles/dark-mode/efa.css" class="dark_css"/>
   <link rel="stylesheet" type="text/css" href="../styles/topnav.css"/>
-  <link rel="stylesheet" type="text/css" href="styles/dark-mode/catalogue.css" class="dark_css"/>
+  <link rel="stylesheet" type="text/css" href="../styles/dark-mode/catalogue.css" class="dark_css"/>
 </head>
 
 <body>

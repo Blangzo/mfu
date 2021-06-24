@@ -52,7 +52,7 @@
             <th>Transcript</th>
             <th>Video</th>
           </tr>
-          <tr>
+          <tr class="plain_table">
             <th>Lesson 1</th>
             <th>Ch. 1</th>
             <th><a href="https://ipfs.io/ipfs/QmZUTrU336dXvoDy5v36Uvsq4UzbASM9rjV33mCfeXvTcP?filename=Lesson1_1_The%20process%20of%20science.m4a">Lesson 1.1 The process of Science</a><br/><a href="https://ipfs.io/ipfs/QmP1TcKvV7eXPi4QuQgB8sztioS6HKBmw8h57tinyEfBSu?filename=Lesson%201_2_The%20process%20of%20science.m4a">Lesson 1.2 The process of Science</a></th>
@@ -60,7 +60,7 @@
             <th><a href="https://ipfs.io/ipfs/QmdtCJiEetcezPmBmXsE3dWz4FnU31aJ2Znhx2f3UhHRTN?filename=Lesson%201_The%20process%20of%20science.pdf">Lesson 1 The process of Science Transcript</a></th>
             <th><a href="https://ipfs.io/ipfs/QmWw2FPzFpj7Sj1Hvom6AJiHN61YBv2rPkMuQwe9pPu51f?filename=Lesson1_1_The%20process%20of%20science.mp4">Lesson 1.1 The process of Science</a><br/><a href="https://ipfs.io/ipfs/QmSjN6Er6TeKUMbnJgmyzXo7yp3GrcvQCaJL16tCruVex4?filename=Lesson%201_2_The%20process%20of%20science.mp4">Lesson 1.2 The process of Science</a></th>
           </tr>
-          <tr>
+          <tr class="plain_table">
             <th>Lesson 2</th>
             <th>Ch. 2</th>
             <th><a href="https://ipfs.io/ipfs/QmcLgfb8E65cUpdanPTQSk4UwPvUNvogQ5u64wrrfXsuTR?filename=Lesson%202_1_Chemistry%20of%20Life.m4a">Lesson 2.1 Chemistry of Life</a><br/><a href="https://ipfs.io/ipfs/QmZYfmdzCyPhoFvqLY5yWo3BoidUv1uAYdAJefXbvAL8KQ?filename=Lesson%202_2_Chemistry%20of%20Life.m4a">Lesson 2.2 Chemistry of Life</a></th>
@@ -68,7 +68,7 @@
             <th><a href="https://ipfs.io/ipfs/QmXhmGrM3ZW6bShBV2jAHSUzNBjA35vPZyXtm9Vn1S6mCR?filename=Lesson%202_Chemistry%20of%20Life.pdf">Lesson 2 Chemistry of Life Transcript</a></th>
             <th><a href="https://ipfs.io/ipfs/QmRQg1WxPNmfEjy75Wj93zBt5BQuWZ2VJUVwAwysuN18T1?filename=Lesson%202_1_Chemistry%20of%20Life.mp4">Lesson 2.1 Chemistry of Life</a><br/><a href="https://ipfs.io/ipfs/QmZkhceWMRuDCKMxFGVPAznUuvoKf7xQtQDExgsNhjiDQL?filename=Lesson%202_2_Chemistry%20of%20Life.mp4">Lesson 2.2 Chemistry of Life</a></th>
           </tr>
-          <tr>
+          <tr class="plain_table">
             <th>Lesson 3</th>
             <th>Ch. 3</th>
             <th><a href="https://ipfs.io/ipfs/QmaGSjrRuDGe9rSsqT8bU5zzTDaAkLzKDWWgUZ6teWdDSx?filename=Lesson%203_1_Biomolecules.m4a">Lesson 3.1 Chemistry of Life</a><br/><a href="https://ipfs.io/ipfs/QmR7Jdddw9DwNY2UEawhnto5PVGFGmwWyTAvBwuUkq8ChD?filename=Lesson%203_2_Biomolecules.m4a">Lesson 3.2 Biomolecules</a><br/><a href="https://ipfs.io/ipfs/QmedKaNJDyqKqh9xaciWakNYmV6685WmLnRuBiVQizcCai?filename=Lesson%203_3_Biomolecules.m4a">Lesson 3.3 Biomolecules</a><br/><a href="https://ipfs.io/ipfs/QmcruVbQ6tj6saLJDUpQPAxKAwbYrn4ee7Pf3x7xTt8Doi?filename=Lesson%203_4_Biomolecules.m4a">Lesson 3.4 Biomolecules</a></th>

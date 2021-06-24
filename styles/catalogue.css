@@ -61,9 +61,28 @@ tr {
 
 .i2 {
 	margin-top:1em;
-	margin-left: 15%;
+	margin-left: 15%;tr.blue {
+		background-color: #475388;
+		color: white;
+	}
+
+	tr.plain_table {
+		background-color: #FFFFFF;
+		color: black;
+	}
+
 }
 
 button {
 	border-radius: 12px;
+}
+
+tr.blue {
+	background-color: #475388;
+	color: white;
+}
+
+tr.plain_table {
+	background-color: #FFFFFF;
+	color: black;
 }
