@@ -68,3 +68,13 @@ tr {
 button {
 	border-radius: 12px;
 }
+
+tr.blue {
+	background-color: #475388;
+	color: white;
+}
+
+tr.plain_table {
+	background-color: #FFFFFF;
+	color: black;
+}

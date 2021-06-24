@@ -44,7 +44,7 @@
         <h5 class="i1"><a href="https://ipfs.io/ipfs/QmY56qEpC5CnvReMugVU7tHodPtCFRqis4gFdqAXsj7KVV?filename=Biology2e-WEB_ICOFkGu.pdf">Textbook</a></h5>
         <p>The textbook is also available online <a href="https://openstax.org/details/books/biology-2e">here</a></p>
         <table>
-          <tr>
+          <tr class="blu">
             <th>Lesson</th>
             <th>Chapter</th>
             <th>Audio</th>
