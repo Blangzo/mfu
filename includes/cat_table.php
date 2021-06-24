@@ -18,5 +18,9 @@
 				<td><a href="catalogue/seasia_cold_war.php">SEAsia Cold War</a></td>
 				<td>Name Withheld</td>
 			</tr>
+			<tr>
+				<td><a href="catalogue/intro_to_molec_bio.php">Intro to Molecular Biology</a></td>
+				<td>Name Withheld</td>
+			</tr>
    </tbody>
  </table>
