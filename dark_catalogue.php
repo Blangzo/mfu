@@ -7,6 +7,7 @@
   <meta name="VFU" content="VFU" />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <?php include 'includes/google_analytics_tag.php';?>
   <!-- <link rel="stylesheet" type="text/css" href="styles/v1.css"/> -->
   <link rel="stylesheet" type="text/css" href="styles/v2.css"/>
   <link rel="stylesheet" type="text/css" href="styles/dark-mode/catalogue.css" class="dark_css"/>
