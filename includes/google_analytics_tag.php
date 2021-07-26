@@ -4,7 +4,7 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
+  ga('set', 'anonymizeIp', true);
   gtag('config', 'G-YC80N9JSM2');
 </script>
 <!-- Google Tag Manager -->
