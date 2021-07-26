@@ -21,6 +21,7 @@
 </head>
 
 <body>
+  <?php include 'includes/google_tag_manager_body.php';?>
   <div class="topnav">
     <a href="index.php">Home</a>
     <a class="active" href="catalogue.php">Catalogue</a>

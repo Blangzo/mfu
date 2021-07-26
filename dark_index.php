@@ -21,6 +21,7 @@
 </head>
 
 <body>
+  <?php include 'includes/google_tag_manager_body.php';?>
   <div id="fb-root"></div>
   <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v11.0" nonce="3lDNzyiV"></script>
   <div class="topnav">

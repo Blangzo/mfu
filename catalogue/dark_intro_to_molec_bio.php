@@ -20,6 +20,7 @@
 </head>
 
 <body>
+  <?php include 'includes/google_tag_manager_body.php';?>
   <div class="topnav">
     <a href="../dark_index.php">Home</a>
     <a class="active" href="../dark_catalogue.php">Catalogue</a>
