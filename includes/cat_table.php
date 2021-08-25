@@ -16,19 +16,19 @@
 			</tr>
 			<tr>
 				<td><a href="catalogue/seasia_cold_war.php">SEAsia Cold War</a></td>
-				<td>Name Withheld</td>
+				<td>Dr. Tharaphi Than</td>
 			</tr>
 			<tr>
 				<td><a href="catalogue/intro_to_molec_bio.php">Intro to Molecular Biology</a></td>
-				<td>Name Withheld</td>
+				<td>Dr. Khatta</td>
 			</tr>
 			<tr>
 				<td><a href="catalogue/citizenship_and_statelessness.php">Citizenship and Statelessness</a></td>
-				<td>Name Withheld</td>
+				<td>Natalie Brinham, Institute of Statelessness and Inclusion </td>
 			</tr>
 			<tr>
 				<td><a href="catalogue/lies_my_teacher_told_me.php">Lies My Teacher Told Me</a></td>
-				<td>Name Withheld</td>
+				<td>Dr. Rose Metro, University of Missouri-Columbia</td>
 			</tr>
    </tbody>
  </table>
