@@ -11,6 +11,10 @@ p {
   margin: auto;
 }
 
+p.p1 {
+  width: 75%;
+}
+
 .mode {
   float: right !important;
 }
