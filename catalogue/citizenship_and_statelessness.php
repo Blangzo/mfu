@@ -42,7 +42,7 @@
         <h3 class="course">Citizenship and Statelessness by Natalie Brinham, Institute of Statelessness and Inclusion </h3>
         <h5 class="i1">
           <a href="https://ipfs.io/ipfs/QmeyY1SGaqBHYQksbMgpxAoBhruGUccJPkB26fi4fbKMJU?filename=course_guide.docx">Course Guide</a>
-          <p>This course will provide an overview of citizenship and statelessness in international contexts.
+          <p class="p1">This course will provide an overview of citizenship and statelessness in international contexts.
           Learning materials will be developed by the Institute on Statelessness and Inclusion. It is an entry level course that will provide an introduction to the issues. For those looking to extend their learning
           on these topics, we will provide links for materials that explore the issues in greater depth. We will
           utilise existing resources but will target lessons specifically to a multi-ethnic Myanmar audience and
