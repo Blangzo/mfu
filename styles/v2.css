@@ -13,7 +13,7 @@ p {
 
 p.p1 {
   width: 75%;
-  margin: inherit;
+  margin: initial;
 }
 
 .mode {
