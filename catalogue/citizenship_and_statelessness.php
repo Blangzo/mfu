@@ -60,7 +60,7 @@
             <h5 class="i1">Transcript</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmbGPgHDz2LWhQJfKsF1wHUzptGsfiWmBZbtSFanF8bZFW?filename=Lesson1_transcript_citizenship_and_statelessness.docx">Transcript</a></p>
             <h5 class="i1">Exercise</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/Qmd9zJj5SmEznToFFHQJaMQJueZereSonHB6C1mRknFJ5D?filename=lesson1_introdction_citizenship_and_statelessness.docx">Lesson 1 Exercise</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmdszxXCWh6tFaVGwQk3BGhWEC2iRCVHK86HDhYfU7hTwh?filename=lesson1_introdction_citizenship_and_statelessness.docx">Lesson 1 Exercise</a></p>
       </div>
   </div>
   <form class="course">
