@@ -38,7 +38,7 @@
 
   <div class="mb-4 mt-4">
       <div class="mb-2 mt-3">
-        <h3 class="course">Intro to Molecular Biology - Instructor name withheld</h3>
+        <h3 class="course">Intro to Molecular Biology - Dr. Khatta</h3>
         <h5 class="i1"><a href="https://ipfs.io/ipfs/QmUUQG2qf5gD8CdRjkFJPEeQsr77ULvrQb27t5YrvCWGv6?filename=Guidelines%20for%20Intro%20to%20Molecular%20Bio.pdf">Guidelines for Intro to Molecular Biology</a></h5>
         <h5 class="i1">Introduction</h5>
         <p class="i2"><a href="https://ipfs.io/ipfs/QmZoMofgDD4ipt1nyM1ymUBDai2YcNrbUTjzV4AVpQA53j?filename=Intro%20to%20Molecular%20Biology_Burmese.pdf">Introduction PDF</a></p>
