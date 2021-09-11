@@ -62,7 +62,7 @@
             <th><a href="https://ipfs.io/ipfs/QmYB4JcgEjiHAE8qzKnssCvxg3C1xhe4hcrZYPrcnZMaqn?filename=Lesson%201_The%20process%20of%20science_Slides.pdf">Lesson 1 The process of Science Slides</a></th>
             <th><a href="https://ipfs.io/ipfs/QmdtCJiEetcezPmBmXsE3dWz4FnU31aJ2Znhx2f3UhHRTN?filename=Lesson%201_The%20process%20of%20science.pdf">Lesson 1 The process of Science Transcript</a></th>
             <th><a href="https://ipfs.io/ipfs/QmWw2FPzFpj7Sj1Hvom6AJiHN61YBv2rPkMuQwe9pPu51f?filename=Lesson1_1_The%20process%20of%20science.mp4">Lesson 1.1 The process of Science</a><br/><a href="https://ipfs.io/ipfs/QmSjN6Er6TeKUMbnJgmyzXo7yp3GrcvQCaJL16tCruVex4?filename=Lesson%201_2_The%20process%20of%20science.mp4">Lesson 1.2 The process of Science</a></th>
-            <th><a href="https://ipfs.io/ipfs/QmWq2w4fcv97gC6Lrhymbqa55Snmx5RJatgNNWkwSFFfgY?filename=Lesson%201_Exercise_Key.pdf">Lesson 1 Exercise Key</a></th>
+            <th><p>Lesson 1 Exercise is included in the video and the slides</p><br/><a href="https://ipfs.io/ipfs/QmWq2w4fcv97gC6Lrhymbqa55Snmx5RJatgNNWkwSFFfgY?filename=Lesson%201_Exercise_Key.pdf">Lesson 1 Exercise Key</a></th>
           </tr>
           <tr class="plain_table">
             <th>Lesson 2</th>

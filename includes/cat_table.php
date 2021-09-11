@@ -30,5 +30,9 @@
 				<td><a href="catalogue/lies_my_teacher_told_me.php">Lies My Teacher Told Me</a></td>
 				<td>Dr. Rose Metro, University of Missouri-Columbia</td>
 			</tr>
+			<tr>
+				<td><a href="catalogue/intro_to_politics.php">Introduction to Politics</a></td>
+				<td>Instructor name withheld</td>
+			</tr>
    </tbody>
  </table>
