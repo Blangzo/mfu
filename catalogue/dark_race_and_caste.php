@@ -39,6 +39,7 @@
   <div class="mb-4 mt-4">
       <div class="mb-2 mt-3">
         <h3 class="course">Race and Caste by Dr. Arash Sedighi</h3>
+        <h5 class="i1"><a href="https://ipfs.io/ipfs/QmRpsWfxtwYHtVmfX9FzqmEJDrWTZ1wbtLFGyj1VCCPY5r?filename=Race%20And%20Caste%20Abstract%20and%20Description.docx">Race and Caste Abstract and Description</a></h5>
           <h4 class="module">Module 1: Analogies and Entanglements</h4>
           <p><a href="https://ipfs.io/ipfs/QmbRmApFWNvwpMQNeRsUbCGcL3MfJoxEdtmM34CbMQcfek?filename=Race_and_Caste.zip">Zip File</a></p>
             <h5 class="i1">Lectures</h5>
