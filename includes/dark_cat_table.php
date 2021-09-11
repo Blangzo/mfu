@@ -32,7 +32,7 @@
 			</tr>
 			<tr>
 				<td><a href="catalogue/dark_intro_to_politics.php">Introduction to Politics</a></td>
-				<td>Dr. Stanley Jagger</td>
+				<td>Dr. Stan Jagger</td>
 			</tr>
 			<tr>
 				<td><a href="catalogue/dark_fundamentals_of_research.php">Fundametals of Research</a></td>
