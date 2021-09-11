@@ -61,6 +61,7 @@
             <th><a href="https://ipfs.io/ipfs/QmYB4JcgEjiHAE8qzKnssCvxg3C1xhe4hcrZYPrcnZMaqn?filename=Lesson%201_The%20process%20of%20science_Slides.pdf">Lesson 1 The process of Science Slides</a></th>
             <th><a href="https://ipfs.io/ipfs/QmdtCJiEetcezPmBmXsE3dWz4FnU31aJ2Znhx2f3UhHRTN?filename=Lesson%201_The%20process%20of%20science.pdf">Lesson 1 The process of Science Transcript</a></th>
             <th><a href="https://ipfs.io/ipfs/QmWw2FPzFpj7Sj1Hvom6AJiHN61YBv2rPkMuQwe9pPu51f?filename=Lesson1_1_The%20process%20of%20science.mp4">Lesson 1.1 The process of Science</a><br/><a href="https://ipfs.io/ipfs/QmSjN6Er6TeKUMbnJgmyzXo7yp3GrcvQCaJL16tCruVex4?filename=Lesson%201_2_The%20process%20of%20science.mp4">Lesson 1.2 The process of Science</a></th>
+            <th><a href="https://ipfs.io/ipfs/QmWq2w4fcv97gC6Lrhymbqa55Snmx5RJatgNNWkwSFFfgY?filename=Lesson%201_Exercise_Key.pdf">Lesson 1 Exercise Key</a></th>
           </tr>
           <tr>
             <th>Lesson 2</th>
@@ -69,6 +70,7 @@
             <th><a href="https://ipfs.io/ipfs/QmX9hgHraUWtvmySFkpFHqhRq6gE9j7TjmU1QhM4D8SEmQ?filename=Lesson%202_Chemistry%20of%20Life_Slides.pdf">Lesson 2 Chemistry of Life Slides</a></th>
             <th><a href="https://ipfs.io/ipfs/QmXhmGrM3ZW6bShBV2jAHSUzNBjA35vPZyXtm9Vn1S6mCR?filename=Lesson%202_Chemistry%20of%20Life.pdf">Lesson 2 Chemistry of Life Transcript</a></th>
             <th><a href="https://ipfs.io/ipfs/QmRQg1WxPNmfEjy75Wj93zBt5BQuWZ2VJUVwAwysuN18T1?filename=Lesson%202_1_Chemistry%20of%20Life.mp4">Lesson 2.1 Chemistry of Life</a><br/><a href="https://ipfs.io/ipfs/QmZkhceWMRuDCKMxFGVPAznUuvoKf7xQtQDExgsNhjiDQL?filename=Lesson%202_2_Chemistry%20of%20Life.mp4">Lesson 2.2 Chemistry of Life</a></th>
+            <th><a href="https://ipfs.io/ipfs/QmPGb2BE7Wv6bVzrhjj3Xzo8b98A7axUB4tQxprn8fUh3x?filename=Lesson%202_Exercise.docx">Lesson 2 Exercise</a><br/><a href="https://ipfs.io/ipfs/QmWf1PWWM7wLRbYa2xJmh9JEAkNxYCqFzA2Df21k8DvPsA?filename=Lesson%202_Exercise_Key.pdf">Lesson 2 Exercise Key</a></th>
           </tr>
           <tr>
             <th>Lesson 3</th>
@@ -77,6 +79,7 @@
             <th><a href="https://ipfs.io/ipfs/QmbSww6qAy6QCRt7E3S4NZK3Cfz6j6LHAdgfZzjcgtec5E?filename=Lesson%203_Biomolecules_Slides.pdf">Lesson 3 Biomolecules Slides</a></th>
             <th><a href="https://ipfs.io/ipfs/QmeJk5BbiWfT89nNruDxfR7JLMcmysHF36mPLX1PuEdUam?filename=Lesson%203_Biomolecules.pdf">Lesson 3 Biomolecules Transcript</a></th>
             <th><a href="https://ipfs.io/ipfs/QmTuvknj4ZPZvJwvmZDxne45UeeMft3Zr9339khNDoXBnK?filename=Lesson%203_1_Biomolecules.mp4">Lesson 3.1 Chemistry of Life</a><br/><a href="https://ipfs.io/ipfs/QmUXZFpHfEkFx27iPz7MVEV7TPiJ3QUsex7cpPi4nPvNfu?filename=Lesson%203_2_Biomolecules.mp4">Lesson 3.2 Biomolecules</a><br/><a href="https://ipfs.io/ipfs/Qmd8xZ2fZQ9jeciTFxVFD6KCZPQpjkrdUHSRx6dSVYgPNr?filename=Lesson%203_3_Biomolecules.mp4">Lesson 3.3 Biomolecules</a><br/><a href="https://ipfs.io/ipfs/QmXFvwbh5vi1cBrodqtCxr23rWKvUyhAihgCPACcg15aEx?filename=Lesson%203_4_Biomolecules.mp4">Lesson 3.4 Biomolecules</a></th>
+            <th><a href="https://ipfs.io/ipfs/QmXCuKKfKkXzH8eM1FzEbNoLe1v7nnvsAHwQHsCgNng2ui?filename=Lesson%203_Exercise.pdf">Lesson 3 Exercise</a><br/><a href="https://ipfs.io/ipfs/Qmc2apeaRsCqpoyuGuNDXZhMUGL2c4ozEBJj1PtTpfj9W2?filename=Lesson%203_Exercise_Key.pdf">Lesson 3 Exercise Key</a></th>
           </tr>
         </table>
       </div>
