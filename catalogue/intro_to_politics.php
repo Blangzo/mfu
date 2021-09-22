@@ -39,7 +39,7 @@
   <div class="mb-4 mt-4">
       <div class="mb-2 mt-3">
         <h3 class="course">Introduction to Politics by Dr. Stan Jagger</h3>
-        <h5 class="i1"><a href="https://ipfs.io/ipfs/Qmd768f3AbBMv4hWSBYmy7H9XwBRnLAbN7MeU2kT3v9aR2?filename=Intro%20to%20Politics%20Course%20Outline%20.docx">Introduction to Politics Course Outline</a></h5>
+        <h5 class="i1"><a href="https://ipfs.io/ipfs/QmcSbbA79AULNrRGNo6diGT5bpyoHs2v9eKHdfp5vRiQp7?filename=Intro%20to%20Politics%20Course%20Outline.pdf">Introduction to Politics Course Outline</a></h5>
         <p class="i2"><a href="https://ipfs.io/ipfs/QmayvJJN9SUYC5c4Bwe5bz7hiohhFDEGnJMqCbP4yE9Rs3?filename=Politics%20textbook%20units%201%20and%202.pdf">[Textbook] Politics: Chapters 1 and 2</a></p>
         <p class="i2"><a href="https://ipfs.io/ipfs/QmR2vT3SyWJzQNfbYc1i9rLfejTFCRaVjtx4RpbUVEofD6?filename=Politics%20textbook%20unit%203.pdf">[Textbook] Politics: Chapter 3</a></p>
         <h5 class="i1"><a href="https://ipfs.io/ipfs/QmZGE1d1D6ocud8Gw1bUPHLRw4H1AxjUcRnU649Qx3Pnxs?filename=Questions%20and%20Answers%20Units%201-4.pdf">Questions and Answers Units 1-4</a></h5>
