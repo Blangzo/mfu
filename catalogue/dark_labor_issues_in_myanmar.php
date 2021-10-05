@@ -13,21 +13,21 @@
   <link rel="stylesheet" href="../lib/bootstrap/dist/css/bootstrap.min.css" />
   <link rel="stylesheet" href="../lib/bootstrap/dist/css/open-iconic-bootstrap.min.css" />
   <!-- <link rel="stylesheet" href="lib/DataTables/datatables.min.css" /> -->
-  <link rel="stylesheet" href="../styles/site.css" />
-  <link rel="stylesheet" href="../styles/efa.css" />
+  <link rel="stylesheet" href="../styles/dark-mode/site.css" class="dark_css"/>
+  <link rel="stylesheet" href="../styles/dark-mode/efa.css" class="dark_css"/>
   <link rel="stylesheet" type="text/css" href="../styles/topnav.css"/>
-  <link rel="stylesheet" type="text/css" href="../styles/catalogue.css"/>
+  <link rel="stylesheet" type="text/css" href="../styles/dark-mode/catalogue.css" class="dark_css"/>
 </head>
 
 <body>
   <?php include 'includes/google_tag_manager_body.php';?>
   <div class="topnav">
-    <a href="../index.php">Home</a>
-    <a class="active" href="../catalogue.php">Catalogue</a>
-    <a href="../contact.php">Contact</a>
-    <a href="../technical.php">Technical</a>
-    <a class="active mode" href="labor_issues_in_myanmar.php" id="light_mode">Light Mode</a>
-    <a href="dark_labor_issues_in_myanmar.php" id="dark_mode" class="mode">Dark Mode</a>
+    <a href="../dark_index.php">Home</a>
+    <a class="active" href="../dark_catalogue.php">Catalogue</a>
+    <a href="../dark_contact.php">Contact</a>
+    <a href="../dark_technical.php">Technical</a>
+    <a class="mode" href="lies_my_teacher_told_me.php" id="light_mode">Light Mode</a>
+    <a href="dark_lies_my_teacher_told_me.php" id="dark_mode" class="active mode">Dark Mode</a>
   </div>
 
   <div class="mb-2 mt-2">
