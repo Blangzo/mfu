@@ -38,5 +38,9 @@
 				<td><a href="catalogue/fundamentals_of_research.php">Fundametals of Research</a></td>
 				<td>The Tea Leaf Centre</td>
 			</tr>
+			<tr>
+				<td><a href="catalogue/labor_issues_in_myanmar.php">Labour Issues in Myanmar History</a></td>
+				<td>[instructor name withheld]</td>
+			</tr>
    </tbody>
  </table>
