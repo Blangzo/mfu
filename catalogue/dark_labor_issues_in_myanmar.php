@@ -50,20 +50,20 @@
           <h5 class="i1">Lecture</h5>
             <p class="i2"><a href="https://ipfs.io/ipfs/QmXS2GhS2EGzXYe3C7YBp9foyx52WuL3DF1DNo8MZANj7W?filename=Labor_Issues_in_Myanmar_Lecture2.mp3">Burmese Audio</a></p>
           <h5 class="i1">Transcript</h5>
-            <p class="i2"><a href="https://ipfs.io/ipfs/QmTU9X8jtT3FL9t8wNGzppumQ6L5uaGmc6JWsXvi18xjUt?filename=Labor_Issues_in_Myanmar_Lecture2.docx">English Transcript</a></p>
-            <p class="i2"><a href="https://ipfs.io/ipfs/QmPg2NZH4GvK1dyBn6ojdtqfH3zktNajABA38M21vrPwxV?filename=Labor_Issues_in_Myanmar_Lecture2.docx">Burmese Transcript</a></p>
+            <p class="i2"><a href="https://ipfs.io/ipfs/QmTU9X8jtT3FL9t8wNGzppumQ6L5uaGmc6JWsXvi18xjUt?filename=Labor_Issues_in_Myanmar_Lecture2.pdf">English Transcript</a></p>
+            <p class="i2"><a href="https://ipfs.io/ipfs/QmPg2NZH4GvK1dyBn6ojdtqfH3zktNajABA38M21vrPwxV?filename=Labor_Issues_in_Myanmar_Lecture2.pdf">Burmese Transcript</a></p>
         <h4 class="module">Module 3</h4>
           <h5 class="i1">Lecture</h5>
             <p class="i2"><a href="https://ipfs.io/ipfs/QmcWQ4VupXUXB3Rv2du8i7ubCU43XANFDRksFm6AzpzoQg?filename=Labor_Issues_in_Myanmar_Lecture3.m4a">Burmese Audio</a></p>
           <h5 class="i1">Transcript</h5>
-            <p class="i2"><a href="https://ipfs.io/ipfs/QmUVjzoXPfARnEd5f7ui68d8mhHwhZ1q7EHuYevrGFVyyr?filename=Labor_Issues_in_Myanmar_Lecture3.docx">English Transcript</a></p>
-            <p class="i2"><a href="https://ipfs.io/ipfs/QmexhFQEyn6Xh78YVaZsyYhmDQbxKEySTegEF1WodQsBcb?filename=Labor_Issues_in_Myanmar_Lecture3.docx">Burmese Transcript</a></p>
+            <p class="i2"><a href="https://ipfs.io/ipfs/QmUVjzoXPfARnEd5f7ui68d8mhHwhZ1q7EHuYevrGFVyyr?filename=Labor_Issues_in_Myanmar_Lecture3.pdf">English Transcript</a></p>
+            <p class="i2"><a href="https://ipfs.io/ipfs/QmexhFQEyn6Xh78YVaZsyYhmDQbxKEySTegEF1WodQsBcb?filename=Labor_Issues_in_Myanmar_Lecture3.pdf">Burmese Transcript</a></p>
         <h4 class="module">Module 4</h4>
           <h5 class="i1">Lecture</h5>
             <p class="i2"><a href="https://ipfs.io/ipfs/QmNpBpfj9Vqb47Kt2DK5ke2hqZnh6EJqAGhgHcnYY1cG36?filename=Labor_Issues_in_Myanmar_Lecture4.m4a">Burmese Audio</a></p>
           <h5 class="i1">Transcript</h5>
-            <p class="i2"><a href="https://ipfs.io/ipfs/QmQKgezkhYaaVhpNX7PuMUJ1ftaHEbfyx1EGSVoGZb6fsW?filename=Labor_Issues_in_Myanmar_Lecture4.docx">English Transcript</a></p>
-            <p class="i2"><a href="https://ipfs.io/ipfs/QmXqx2LwZjAj2RVE3NvDiMNParTuerNqkESL2Gabn6zaGK?filename=Labor_Issues_in_Myanmar_Lecture4.docx">Burmese Transcript</a></p>
+            <p class="i2"><a href="https://ipfs.io/ipfs/QmQKgezkhYaaVhpNX7PuMUJ1ftaHEbfyx1EGSVoGZb6fsW?filename=Labor_Issues_in_Myanmar_Lecture4.pdf">English Transcript</a></p>
+            <p class="i2"><a href="https://ipfs.io/ipfs/QmXqx2LwZjAj2RVE3NvDiMNParTuerNqkESL2Gabn6zaGK?filename=Labor_Issues_in_Myanmar_Lecture4.pdf">Burmese Transcript</a></p>
       </div>
   </div>
   <form class="course">
