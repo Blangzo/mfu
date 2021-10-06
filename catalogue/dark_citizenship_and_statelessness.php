@@ -40,19 +40,21 @@
   <div class="mb-4 mt-4">
       <div class="mb-2 mt-3">
         <h3 class="course">Citizenship and Statelessness by Natalie Brinham, Institute of Statelessness and Inclusion </h3>
-        <h5 class="i1">
-          <a href="https://ipfs.io/ipfs/QmeyY1SGaqBHYQksbMgpxAoBhruGUccJPkB26fi4fbKMJU?filename=course_guide.docx">Course Guide</a>
-          <p class="i1">This course will provide an overview of citizenship and statelessness in international contexts.
-          Learning materials will be developed by the Institute on Statelessness and Inclusion. It is an entry level course that will provide an introduction to the issues. For those looking to extend their learning
-          on these topics, we will provide links for materials that explore the issues in greater depth. We will
-          utilise existing resources but will target lessons specifically to a multi-ethnic Myanmar audience and
-          invite reflection on the relevance of the issues to the Myanmar context. The lessons will encourage
-          critical thinking and reflection. They will cover an introduction to statelessness; citizenship and
-          discrimination; childhood statelessness; citizenship stripping; statelessness and forced migration;
-          and access to citizenship in Myanmar. Most learning materials will be in English. Where possible we
-          will provide written and listening materials in Burmese. Following the release of each lesson and a
-          self-study period, we will also be available for discussion sessions with the students. We also
-          encourage peer-to-peer discussion of the lessons.</p>
+          <h5 class="i1">Course Abstract</h5>
+            <p class="i2">This course will provide an overview of citizenship and statelessness in international contexts.
+            Learning materials will be developed by the Institute on Statelessness and Inclusion. It is an entry level course that will provide an introduction to the issues. For those looking to extend their learning
+            on these topics, we will provide links for materials that explore the issues in greater depth. We will
+            utilise existing resources but will target lessons specifically to a multi-ethnic Myanmar audience and
+            invite reflection on the relevance of the issues to the Myanmar context. The lessons will encourage
+            critical thinking and reflection. They will cover an introduction to statelessness; citizenship and
+            discrimination; childhood statelessness; citizenship stripping; statelessness and forced migration;
+            and access to citizenship in Myanmar. Most learning materials will be in English. Where possible we
+            will provide written and listening materials in Burmese. Following the release of each lesson and a
+            self-study period, we will also be available for discussion sessions with the students. We also
+            encourage peer-to-peer discussion of the lessons.</p>
+            </h5>
+            <h5 class="i1">
+              <a href="https://ipfs.io/ipfs/QmeyY1SGaqBHYQksbMgpxAoBhruGUccJPkB26fi4fbKMJU?filename=course_guide.docx">Citizenship and Statelessness Course Guide</a>
         </h5>
           <h4 class="module">Module 1</h4>
             <h5 class="i1">Lecture</h5>
