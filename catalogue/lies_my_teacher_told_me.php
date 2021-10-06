@@ -40,6 +40,8 @@
   <div class="mb-4 mt-4">
       <div class="mb-2 mt-3">
         <h3 class="course">Lies My Teacher Told Me by Dr. Rose Metro, University of Missouri-Columbia</h3>
+        <h5 class="i1">Course Abstract</h5>
+        <p class="i2">This course will cover 5 “myths” about Burma’s history: “master narratives” that have been repeated in school textbooks and state media for so long that they may subtly influence even people who are skeptical of government propaganda. The first episode will cover how history curricula have been used as political tools in Burma and worldwide. The other 5 episodes use primary source documents to deconstruct these 5 myths by examining how they came about and who they benefit: 1. All the ethnic groups were happily united under the rule of the Burmans before the British colonized the region. 2. There are 8 national races and 135 ethnic groups indigenous to Myanmar. 3. All the national races agreed to unify in the Panglong Agreement. 4. Myanmar is a Buddhist country. 5. The 1962 military coup was necessary to prevent the country from disintegrating.</p>
           <h4 class="module">Module 1</h4>
             <h5 class="i1">Lecture</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmZ1SShNVDpCqy8wjUYgj4R1gezrXJV5JQkZBTvA6bLPz6?filename=Lies_My_Teacher_Told_Me_EP1_History_Curriculum_as_a_Political_Tool.m4a">English Audio</a></p>
