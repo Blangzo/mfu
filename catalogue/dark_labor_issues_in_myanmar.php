@@ -26,8 +26,8 @@
     <a class="active" href="../dark_catalogue.php">Catalogue</a>
     <a href="../dark_contact.php">Contact</a>
     <a href="../dark_technical.php">Technical</a>
-    <a class="mode" href="lies_my_teacher_told_me.php" id="light_mode">Light Mode</a>
-    <a href="dark_lies_my_teacher_told_me.php" id="dark_mode" class="active mode">Dark Mode</a>
+    <a class="mode" href="labor_issues_in_myanmar.php" id="light_mode">Light Mode</a>
+    <a href="dark_labor_issues_in_myanmar.php" id="dark_mode" class="active mode">Dark Mode</a>
   </div>
 
   <div class="mb-2 mt-2">
@@ -42,22 +42,28 @@
         <h3 class="course">Labor Isssues in Myanmar by [instructor name withheld]</h3>
           <h4 class="module">Module 1</h4>
             <h5 class="i1">Lecture</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmdpnBfhAaFEXEMZpy9cX2qCz4URnKvfGSf4tEkZmgQb96?filename=Lies_My_Teacher_Told_Me_EP1_History_Curriculum_as_a_Political_Tool.m4a">Burmese Audio</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmPFv645bdJR3yxMR94NGf15hU2ijobwUqa1raj2XfCNKv?filename=Lies_My_Teacher_Told_Me_EP1_History_Curriculum_as_a_Political_Tool.m4a">Jingphaw Audio</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmeHaTAP5o8RhRRuF9sYvL1VhhzB1ZJofSC4scveKiqe2t?filename=Labor_Issues_in_Myanmar_Lecture1.m4a">English Audio</a></p>
             <h5 class="i1">Transcript</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmawSjpZXcLHqZwFQw7XhnSBParKRWVnsX4gptmGq9m9a2?filename=Labour_Issues_in_Myanmar_History.pdf">Burmese transcript</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmQyztcXGHACdJqQUxeXAMDEJapKYW5AvWneLGTqaVViS8?filename=Lies_My_Teacher_Told_Me_EP1_History_Curriculum_as_a_Political_Tool.pdf">English Transcript</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmaMgVzuJiftcfRXxBDDngJu997ERFwFNh1gdCTP5YhGVt?filename=Lies_My_Teacher_Told_Me_EP1_History_Curriculum_as_a_Political_Tool.pdf">Burmese Transcript</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmNW1Vn4Y9v7hzE5EDkCRtu3e8fqWuwm8kRorrgoYqjL2Y?filename=Lies_My_Teacher_Told_Me_EP1_History_Curriculum_as_a_Political_Tool.pdf">Jingphaw Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmawSjpZXcLHqZwFQw7XhnSBParKRWVnsX4gptmGq9m9a2?filename=Labour_Issues_in_Myanmar_History_Lecture1.pdf">Burmese transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmagstFjwzBk5Mp7UA1fNfbSDrGXWYncsah8MV5Nm5Nqfi?filename=Labor_Issues_in_Myanmar_Lecture1.pdf">English Transcript</a></p>
           <h4 class="module">Module 2</h4>
             <h5 class="i1">Lecture</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmNa5Vs5L9FXtxBL4WyEJ3rND1yVFrcTB1cUfXakRnSw6J?filename=Lies_My_Teacher_Told_Me_EP2_Myth_of_a_Happily_United_Precolonial_Burma.m4a">English Audio</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmY7sfFR5kxqjBrG33D6xzUpXGL4eNqnoop4B946F5SgVH?filename=Lies_My_Teacher_Told_Me_EP2_Myth_of_a_Happily_United_Precolonial_Burma.m4a">Burmse Audio</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmcQV9LL6GmP874f3CgkdHwuXh279iipAB4xoNVy32iNkC?filename=Lies_My_Teacher_Told_Me_EP2_Myth_of_a_Happily_United_Precolonial_Burma.m4a">Jingphaw Audio</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmXS2GhS2EGzXYe3C7YBp9foyx52WuL3DF1DNo8MZANj7W?filename=Labor_Issues_in_Myanmar_Lecture2.mp3">English Audio</a></p>
             <h5 class="i1">Transcript</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmQHm9m4dM4MqWBgBSEoXyMQpXUBr7ZhtPj51WvGGAg7xX?filename=Lies_My_Teacher_Told_Me_EP2_Myth_of_a_Happily_United_Precolonial_Burma.pdf">English Transcript</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmQRqA2NTGTuiWT4Bzcuxtw8oN1XHMU3ZvnRMW4JGXGhSS?filename=Lies_My_Teacher_Told_Me_EP2_Myth_of_a_Happily_United_Precolonial_Burma.pdf">Burmese Transcript</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmPBLK4cTsRgusDAU76GZan4JzvryoySTsBrh9R9L1fmah?filename=Lies_My_Teacher_Told_Me_EP2_Myth_of_a_Happily_United_Precolonial_Burma.pdf">Jingphaw Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmYhtHCFu86sLfF8a8pfUERas4faskMjzbfTZDBt9bL78j?filename=Labor_Issues_in_Myanmar_Lecture2.docx">English Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmSNUvq5YJ4VFvmP2d3U1yxPe5zDwX7XLzkvprWLYe37Gv?filename=Labor_Issues_in_Myanmar_Lecture2.docx">Burmese Transcript</a></p>
+          <h4 class="module">Module 3</h4>
+            <h5 class="i1">Lecture</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmcWQ4VupXUXB3Rv2du8i7ubCU43XANFDRksFm6AzpzoQg?filename=Labor_Issues_in_Myanmar_Lecture3.m4a">English Audio</a></p>
+            <h5 class="i1">Transcript</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmNX6GJZtCgVijuQwzE6fqHwmPwjSu8BHAvsLrMU59t5gm?filename=Labor_Issues_in_Myanmar_Lecture3.docx">English Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmYKgMsezw4b4CJv4pXgVZSzv7kAHaFkqJKdaQ9bccpFiu?filename=Labor_Issues_in_Myanmar_Lecture3.docx">Burmese Transcript</a></p>
+          <h4 class="module">Module 4</h4>
+            <h5 class="i1">Lecture</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmNpBpfj9Vqb47Kt2DK5ke2hqZnh6EJqAGhgHcnYY1cG36?filename=Labor_Issues_in_Myanmar_Lecture4.m4a">English Audio</a></p>
+            <h5 class="i1">Transcript</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmR1MnyE5pbPstDKNnH72tbfmBky9sMLmzsg968hhqaiTq?filename=Labor_Issues_in_Myanmar_Lecture4.docx">English Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmXiW2kn9ZSuPeZqNYYzDymGT8JvrExFbZbd8QtvM5x9QR?filename=Labor_Issues_in_Myanmar_Lecture4.docx">Burmese Transcript</a></p>
       </div>
   </div>
   <form class="course">
