@@ -40,7 +40,7 @@
 			</tr>
 			<tr>
 				<td><a href="catalogue/labor_issues_in_myanmar.php">Labour Issues in Myanmar History</a></td>
-				<td>[instructor name withheld]</td>
+				<td>Ko Maung and Stephen Campbell</td>
 			</tr>
    </tbody>
  </table>
