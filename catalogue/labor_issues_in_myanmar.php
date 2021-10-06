@@ -39,7 +39,7 @@
 
   <div class="mb-4 mt-4">
       <div class="mb-2 mt-3">
-        <h3 class="course">Labor Isssues in Myanmar by [instructor name withheld]</h3>
+        <h3 class="course">Labour Issues in Myanmar by [instructor name withheld]</h3>
           <h4 class="module">Module 1</h4>
             <h5 class="i1">Lecture</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmeHaTAP5o8RhRRuF9sYvL1VhhzB1ZJofSC4scveKiqe2t?filename=Labor_Issues_in_Myanmar_Lecture1.m4a">English Audio</a></p>
