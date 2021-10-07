@@ -35,7 +35,7 @@
 				<td>Dr. Stan Jagger</td>
 			</tr>
 			<tr>
-				<td><a href="catalogue/fundamentals_of_research.php">Fundametals of Research</a></td>
+				<td><a href="catalogue/fundamentals_of_research.php">Fundamentals of Research</a></td>
 				<td>The Tea Leaf Centre</td>
 			</tr>
 			<tr>
