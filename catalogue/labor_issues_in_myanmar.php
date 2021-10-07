@@ -65,6 +65,7 @@
                 <p class="i2">ရေနံ၊ သိန်းဖေမြင့်၊ မြန်မာ့အလင်းနှစ်သစ်၊ မင်္ဂလာသတင်းစာ၊ ဧပြီ၊ ၁၉၃၈။
                   <ol class="i2"> သပိတ်အစ ရေနံမြေက၊ ရဲဘော်ထွန်းဦး</ol>
                   <ol class="i2"> သပိတ်စစ်ပွဲ၊ သခင်ဘိုးလှကြီး၊ ၁၉၃၈။ </ol> </p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmaaCtPN65fxhCXKALqZNy96MJXZREHPgA2hUa3N7biSYW?filename=YeBaw_Htun_Oo_Oil_Field_Strike">Download Link for Yenan Newspaper</a></p>    
               <p class="i2"><a href="https://ipfs.io/ipfs/QmU8h61errBewSnKmjTyTpstmUyDqCKaUNSa6WswEqSUfF?filename=YeBaw_Htun_Oo_Oil_Field_Strike">Download Link for Oilfield Image</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmUFsqHkp559sAVq2JEZMTJR4WfSbFFjHsXBnhJ3Z51mb4?filename=Strike_War_Thakhin_Pho_Hia_Gyi_1938.pdf">Download Link for Strike war</a></p>
           <h4 class="module">Module 3: Racial Capitalism</h4>
