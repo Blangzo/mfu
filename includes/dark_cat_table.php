@@ -36,7 +36,7 @@
 			</tr>
 			<tr>
 				<td><a href="catalogue/dark_fundamentals_of_research.php">Fundamentals of Research</a></td>
-				<td>The Tea Leaf Centre</td>
+				<td>The Tea Leaf Center</td>
 			</tr>
 			<tr>
 				<td><a href="catalogue/dark_labor_issues_in_myanmar.php">Labour Issues in Myanmar History</a></td>
