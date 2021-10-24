@@ -36,8 +36,8 @@
      <h2 class="title-color mb-2 text-center">Virtual Federal University</h2>
  </div>
  <hr />
- <h3>အသံဖိုင်ဖွင့်မရလျှင် Chrome ကိုသုံးပြီး ဖွင့်ပါ</h3>
- <h3>If you can not open audio file, please use “Chrome” browser.</h3>
+ <h3 class="center">အသံဖိုင်ဖွင့်မရလျှင် Chrome ကိုသုံးပြီး ဖွင့်ပါ</h3>
+ <h3 class="center">If you can not open audio file, please use “Chrome” browser.</h3>
  <?php include 'includes/cat_table.php';?>
 
 </body>
