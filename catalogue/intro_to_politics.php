@@ -39,15 +39,15 @@
   <div class="mb-4 mt-4">
       <div class="mb-2 mt-3">
         <h3 class="course">Introduction to Politics by Dr. Stan Jagger</h3>
-        <h5 class="i1">Course Abstract</h5>
+        <h4 class="i1">Course Abstract</h4>
         <p class="i2">This course will provide you with an introduction to essential ideas, institutions, and actors in politics. It aims to provide a basic grounding in politics and background knowledge that can be of use for your study of other politics-related or social science subjects, including those for the Virtual Federal University. It also aims to help you further develop your own analysis of current political events relevant to Myanmar.</p>
-        <h5 class="i1">Introduction to Politics Course Outline</h5>
-        <h4 class="i1"><a href="https://ipfs.io/ipfs/QmcZLwPHhaRNqTHgPcFZPbpAUZpfSeMLZHxVLTFWkEZBiL?filename=Intro%20to%20Politics%20Course%20Outline.pdf">Introduction to Politics Course Outline in Burmese</a></h4>
-        <h4 class="i1"><a href="https://ipfs.io/ipfs/QmcSbbA79AULNrRGNo6diGT5bpyoHs2v9eKHdfp5vRiQp7?filename=Intro%20to%20Politics%20Course%20Outline.pdf">Introduction to Politics Course Outline in English</a></h4>
+        <h4 class="i1">Course Materials</h4>
+        <h5 class="i1"><a href="https://ipfs.io/ipfs/QmcZLwPHhaRNqTHgPcFZPbpAUZpfSeMLZHxVLTFWkEZBiL?filename=Intro%20to%20Politics%20Course%20Outline.pdf">Introduction to Politics Course Outline in Burmese</a></h5>
+        <h5 class="i1"><a href="https://ipfs.io/ipfs/QmcSbbA79AULNrRGNo6diGT5bpyoHs2v9eKHdfp5vRiQp7?filename=Intro%20to%20Politics%20Course%20Outline.pdf">Introduction to Politics Course Outline in English</a></h5>
         <p class="i2"><a href="https://ipfs.io/ipfs/QmayvJJN9SUYC5c4Bwe5bz7hiohhFDEGnJMqCbP4yE9Rs3?filename=Politics%20textbook%20units%201%20and%202.pdf">[Textbook] Politics: Chapters 1 and 2</a></p>
         <p class="i2"><a href="https://ipfs.io/ipfs/QmR2vT3SyWJzQNfbYc1i9rLfejTFCRaVjtx4RpbUVEofD6?filename=Politics%20textbook%20unit%203.pdf">[Textbook] Politics: Chapter 3</a></p>
-        <h4 class="i1"><a href="https://ipfs.io/ipfs/QmR3nUhC87kYps9AwDpHTdyR8gFqyaRPui4EwBVPD6MNkv?filename=Questions%20and%20Answers%20Units%201-4.pdf">Answer Key for Units 1-4 in Burmese</a></h4>
-        <h4 class="i1"><a href="https://ipfs.io/ipfs/QmZGE1d1D6ocud8Gw1bUPHLRw4H1AxjUcRnU649Qx3Pnxs?filename=Questions%20and%20Answers%20Units%201-4.pdf">Answers Key for Units 1-4 in English</a></h4>
+        <p class="i2"><a href="https://ipfs.io/ipfs/QmR3nUhC87kYps9AwDpHTdyR8gFqyaRPui4EwBVPD6MNkv?filename=Questions%20and%20Answers%20Units%201-4.pdf">Answer Key for Units 1-4 in Burmese</a></p>
+        <p class="i2"><a href="https://ipfs.io/ipfs/QmZGE1d1D6ocud8Gw1bUPHLRw4H1AxjUcRnU649Qx3Pnxs?filename=Questions%20and%20Answers%20Units%201-4.pdf">Answers Key for Units 1-4 in English</a></p>
           <h4 class="module">Unit 1: What is Politics?</h4>
             <h5 class="i1">Lectures</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmPWqnSuXGKSWAHje3c4SMcdBMXqAWfzR37APHXbgxd5wt?filename=What%20is%20Politics.mp3">Burmese Audio</a></p>
