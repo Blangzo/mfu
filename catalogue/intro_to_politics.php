@@ -79,8 +79,8 @@
               <p class="i2"><a href="https://ipfs.io/ipfs/QmVeq1iwqD8U9raJiaXXebvZvZfZja2c98yvSS9zXBQnpE?filename=The%20State.mp3">Burmese Audio</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmZqzMRXbyS8m9V8qYgys86bzoptqhtpvv2G4oNLu8LZKc?filename=The%20State.mp3">English Audio</a></p>
             <h5 class="i1">Transcripts</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmR6Nh2LxiZdvg4A8CwrcS7U8bSHiRbFyXCForhY6Q5peC?filename=The%20State%20.docx">Burmese Transcript</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/Qmd4DLhVR9tVZXECk5rqz7inqzuMe1Rg3ZcYuRzow4ivfZ?filename=The%20State%20.docx">English Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmR6Nh2LxiZdvg4A8CwrcS7U8bSHiRbFyXCForhY6Q5peC?filename=The%20State%20.pdf">Burmese Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/Qmd4DLhVR9tVZXECk5rqz7inqzuMe1Rg3ZcYuRzow4ivfZ?filename=The%20State%20.pdf">English Transcript</a></p>
             <h5 class="i1">Readings</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmNMdwxF5BaGsX9EcPJUSyosNyohT9v1zojtd6sgnyRzHg?filename=Is%20the%20State%20a%20force%20for%20good%20Heywood.pdf">Is the State a force for good [Heywood]</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmaKv6SsbCuudz9ZoyHSpY1CsqDk1ZNUpt7EyMtD2NQYhT?filename=What%20is%20a%20state%20ONeil.pdf">What is a state [ONeil]</a></p>
