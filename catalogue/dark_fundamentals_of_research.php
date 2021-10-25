@@ -39,7 +39,7 @@
   <div class="mb-4 mt-4">
       <div class="mb-2 mt-3">
         <h3 class="course">Fundamentals of Research by The Tea Leaf Center</h3>
-        <h5 class="i1"><a href="https://ipfs.io/ipfs/QmP6GKi4NeefCbkM4LW5rpqsa59dJ7gS3ti6WRN2HY3udM?filename=Intro%20to%20Politics%20Course%20Outline%20.docx">Fundamentals of Research Course Description and Overview in Karen</a></h5>
+        <h5 class="i1"><a href="https://ipfs.io/ipfs/QmP6GKi4NeefCbkM4LW5rpqsa59dJ7gS3ti6WRN2HY3udM?filename=Intro%20to%20Politics%20Course%20Outline%20.pdf">Fundamentals of Research Course Description and Overview in Karen</a></h5>
         <h5 class="i1"><a href="https://ipfs.io/ipfs/Qmc3qHVN4EEkSJJNK9YNiRg1RcFNWDoBPYWfSYT3W37dQy?filename=Intro%20to%20Politics%20Course%20Outline%20.pdf">Fundamentals of Research Course Description and Overview in Burmese</a></h5>
         <h5 class="i1"><a href="https://ipfs.io/ipfs/QmRuuS2whotWhP6V1Rh8WPqBF5uXbcxo1nu2SEcb5dz6ng?filename=Intro%20to%20Politics%20Course%20Outline%20.pdf">Fundamentals of Research Course Description and Overview in English</a></h5>
           <h4 class="module">Unit 1: Introduction to Research, Research Process and Terminology</h4>
