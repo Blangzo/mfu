@@ -72,7 +72,7 @@
       </div>
   </div>
   <form class="course">
-    <but statton onclick="location.href='../catalogue.php'" type="button">Back to catalogue</button>
+    <button onclick="location.href='../catalogue.php'" type="button">Back to catalogue</button>
   </form>
 </div>
 </body>
