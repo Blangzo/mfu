@@ -67,7 +67,7 @@
               <p class="i2"><a href="https://ipfs.io/ipfs/QmeMBEnpAawjscjkpLN3F3FwEdRCNrHSvhqje9y6Kxp9no?filename=Lesson2_audio_introduction_to_citizenship_and_statelessness.mp3">English Audio</a></p>
             <h5 class="i1">Transcript</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmWZk3Ets5z4UehEWS5ijQdD6Q6q3YrerPRA7ZAXrRStiJ?filename=Lesson2_transcript_citizenship_and_statelessness.docx">English Transcript</a></p>
-            <h5 class="i1">Exercise</h5>
+            <h5 class="i1">Case Study</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmUjUYNQDiBEE7RDQ57q8kufWzShYtZjKmRyb51hunRrZw?filename=lesson2_introdction_citizenship_and_statelessness_case_study.docx">Lesson 2 Case Study</a></p>
       </div>
   </div>
