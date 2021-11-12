@@ -42,8 +42,8 @@
       <h4 class="i1">Course Abstract</h4>
         <p class="i2">This course will provide you with an introduction to essential ideas, institutions, and actors in politics. It aims to provide a basic grounding in politics and background knowledge that can be of use for your study of other politics-related or social science subjects, including those for the Virtual Federal University. It also aims to help you further develop your own analysis of current political events relevant to Myanmar.</p>
       <h4 class="i1">Course Guide</h4>
-        <h5 class="i1"><a href="https://ipfs.io/ipfs/QmcZLwPHhaRNqTHgPcFZPbpAUZpfSeMLZHxVLTFWkEZBiL?filename=Intro%20to%20Politics%20Course%20Outline.pdf">Introduction to Politics Course Outline in Burmese</a></h5>
-        <h5 class="i1"><a href="https://ipfs.io/ipfs/QmcSbbA79AULNrRGNo6diGT5bpyoHs2v9eKHdfp5vRiQp7?filename=Intro%20to%20Politics%20Course%20Outline.pdf">Introduction to Politics Course Outline in English</a></h5>
+        <h5 class="i1"><a href="https://ipfs.io/ipfs/QmcZLwPHhaRNqTHgPcFZPbpAUZpfSeMLZHxVLTFWkEZBiL?filename=Intro%20to%20Politics%20Course%20Outline.pdf">Introduction to Politics Course Outline in Burmese (units 1-4)</a></h5>
+        <h5 class="i1"><a href="https://ipfs.io/ipfs/Qmei6vYFCLBJbt2bqGqCUbtKRPFrWCYC5HSrrMT3KAFPH5?filename=Intro%20to%20Politics%20Course%20Outline.pdf">Introduction to Politics Course Outline in English (units 1-8)</a></h5>
           <h4 class="module">Unit 1: What is Politics?</h4>
             <h5 class="i1">Lectures</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmPWqnSuXGKSWAHje3c4SMcdBMXqAWfzR37APHXbgxd5wt?filename=What%20is%20Politics.mp3">Burmese Audio</a></p>
@@ -84,12 +84,40 @@
             <h5 class="i1">Readings</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmNMdwxF5BaGsX9EcPJUSyosNyohT9v1zojtd6sgnyRzHg?filename=Is%20the%20State%20a%20force%20for%20good%20Heywood.pdf">Is the State a force for good [Heywood]</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmaKv6SsbCuudz9ZoyHSpY1CsqDk1ZNUpt7EyMtD2NQYhT?filename=What%20is%20a%20state%20ONeil.pdf">What is a state [ONeil]</a></p>
+          <h4 class="module">Unit 5: Ideologies</h4>
+            <h5 class="i1">Lectures</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmYXi2u2jJpoB27aJ5VxtoeweTFZdpf5Cknd9mQuTxnc2L?filename=Ideologies.mp3">English Audio</a></p>
+            <h5 class="i1">Transcripts</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/Qmd2dbRSWVC9aYFtZPtNT3j5cAN5br8S8gUgGaVNXWXbjf?filename=Ideologies.pdf">English Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmeDtVpXUDoGYpntJBh2qbiQzUaTfEP8mRbsWA8APQVxxR?filename=Ideologies%20Explanations.pdf">English Explanations to pair with transcript</a></p>
+            <h5 class="i1">Readings</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmdNPfrHybqgmm5aFtFjypAy6Z8ZQypFRD32qVqm4yJHNf?filename=Hiestories%20of%20Burma%20Source%20book.pdf">Histories of Burma Source book</a></p>
+          <h4 class="module">Unit 6: Democracy</h4>
+            <h5 class="i1">Lectures</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmbFa38yWQjrrzHdHMLKYV2nuqRBmRVtAYBdXPtGztUCDv?filename=Democracy.mp3">English Audio</a></p>
+            <h5 class="i1">Transcripts</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmcnjjVwCxevUyFocm3zWcdicytv2MntcRzffnp2B8PNim?filename=Democracy.pdf">English Transcript</a></p>
+            <h5 class="i1">Readings</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/Qmeuc926x4sry1X4kszhJLW68hNupGxHdkxr3TDAvt9RnF?filename=Hiestories%20of%20Burma%20Source%20book.pdf">Democracy Chapter 2</a></p>
+          <h4 class="module">Unit 7: Government and Economy</h4>
+            <h5 class="i1">Lectures</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmYrckK238T9KVV8aXGawxrVijsYKRVFETV5aK1XdziNSj?filename=Government%20and%20Economy.mp3">English Audio</a></p>
+            <h5 class="i1">Transcripts</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmbRvQkgNk3wKuCx1mgs6UX8zCArmC2Zc7x6W7a1bQus1g?filename=Government%20and%20Economy.pdf">English Transcript</a></p>
+            <h5 class="i1">Readings</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmZzVa8moyUJxGqRTRjC9hpCWrXCaqoiqz1RoKvCdM4nas?filename=Hiestories%20of%20Burma%20Source%20book.pdf">Political Economy</a></p>
+          <h4 class="module">Unit 8: Federalism</h4>
+            <h5 class="i1">Lectures</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmSyhpTswZKufga3CaYmEwE9G9er2LsvtQJYoHqFuA7HrQ?filename=Government%20and%20Economy.mp3">English Audio</a></p>
+            <h5 class="i1">Transcripts</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmVwxS1SwXw71Pz52PZagvEeAWp3euqutRf3cJxD87k8gw?filename=Government%20and%20Economy.pdf">English Transcript</a></p>
+            <h5 class="i1">Readings</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmYr8vbW4EgAowxenRshY3DrQxr38554aPR6ZEC4QapTa9?filename=Hiestories%20of%20Burma%20Source%20book.pdf">Sai Wansai 'commentary on the Shan federal proposal</a></p>
           <h4 class="i1">Additional Course Materials</h4>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmayvJJN9SUYC5c4Bwe5bz7hiohhFDEGnJMqCbP4yE9Rs3?filename=Politics%20textbook%20units%201%20and%202.pdf">[Textbook] Politics: Chapters 1 and 2</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmR2vT3SyWJzQNfbYc1i9rLfejTFCRaVjtx4RpbUVEofD6?filename=Politics%20textbook%20unit%203.pdf">[Textbook] Politics: Chapter 3</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmR3nUhC87kYps9AwDpHTdyR8gFqyaRPui4EwBVPD6MNkv?filename=Questions%20and%20Answers%20Units%201-4.pdf">Answer Key for Units 1-4 in Burmese</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmZGE1d1D6ocud8Gw1bUPHLRw4H1AxjUcRnU649Qx3Pnxs?filename=Questions%20and%20Answers%20Units%201-4.pdf">Answers Key for Units 1-4 in English</a></p>
-
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmZcTyxSgost8SqHhNvt4KHrB4GGT5hrZbmFcG9SxBmAut?filename=Questions%20and%20Answers%20Units%201-4.pdf">Answers Key for Units 1-8 in English</a></p>
       </div>
   </div>
   <form class="course">
