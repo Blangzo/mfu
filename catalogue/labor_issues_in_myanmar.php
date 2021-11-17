@@ -45,7 +45,7 @@
           <p class="i2">This course will introduce students to various issues and theories in labour studies through a survey of Myanmar labour history since the colonial period. The aim is to provide students with conceptual tools to analyse labour and employment dynamics and trends in their own country and elsewhere. The course will familiarise students with key moments in Myanmar labour history, and with the importance of workers and labour in the country’s development. By highlighting ongoing theoretical debates about labour  and  employment,  the  course  will  prompt  students  to  draw  on  their  own  experience  and knowledge  to  make  sense  of  the  diversity  of  historical  and  contemporary  labour  arrangements  in Myanmar, and labour arrangements affecting Myanmar migrant workers abroad. </p>
           <h4 class="module">Module 1: Introudction</h4>
             <h5 class="i1">Lecture</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmNpBpfj9Vqb47Kt2DK5ke2hqZnh6EJqAGhgHcnYY1cG36?filename=Labor_Issues_in_Myanmar_Lecture1.m4a">Burmese Audio</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmeHaTAP5o8RhRRuF9sYvL1VhhzB1ZJofSC4scveKiqe2t?filename=Labor_Issues_in_Myanmar_Lecture1.m4a">Burmese Audio</a></p>
             <h5 class="i1">Transcript</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/Qmaccs7wX8nYaxVueRaJfSMkBgmwJWNU8vRcWPFVbd9WAb?filename=Labour_Issues_in_Myanmar_History_Lecture1.pdf">Burmese Transcript</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmXCw24eZkXmB6g84SyETy9xVJjo945VVtUuQ3qdysosLo?filename=Labor_Issues_in_Myanmar_Lecture1.pdf">English Transcript</a></p>
