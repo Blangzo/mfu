@@ -73,10 +73,10 @@
               <p class="i2"><a href="https://ipfs.io/ipfs/QmPFwrscFtnLDVJJSXpDX6FzQwABLSdjXwzFdiEMhQjCWH?filename=lesson2_introdction_citizenship_and_statelessness_exercise.docx">Lesson 2 Exercise</a></p>
           <h4 class="module">Module 3</h4>
             <h5 class="i1">Lecture</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmT98zCwk87HvHCXQGLw6T53zn4v5qqXvnxWrrkebR3YdN?filename=Lesson3_audio1_childhood_statelessness.mp3">English Audio 1</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmQGqd7HFCWnwoMvgiWtpAKp97FtdQBLqfZMoM4TqqCwPp?filename=Lesson3_audio2_childhood_statelessness.mp3">English Audio 2</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmT98zCwk87HvHCXQGLw6T53zn4v5qqXvnxWrrkebR3YdN?filename=Lesson3_audio1_childhood_statelessness.mp3">English Audio, Part 1</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmQGqd7HFCWnwoMvgiWtpAKp97FtdQBLqfZMoM4TqqCwPp?filename=Lesson3_audio2_childhood_statelessness.mp3">English Audio, Part 3</a></p>
             <h5 class="i1">Transcript</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmUTV7JwMiZZrGSrWBz2kn1qtEXscc78bTrxAKccRzWGWo?filename=Lesson3_transcript_childhood_statelessness.pdf">English Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmUTV7JwMiZZrGSrWBz2kn1qtEXscc78bTrxAKccRzWGWo?filename=Lesson3_transcript_childhood_statelessness.pdf">English Transcript (Part 1)</a></p>
       </div>
   </div>
   <form class="course">
