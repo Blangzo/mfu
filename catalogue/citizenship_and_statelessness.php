@@ -77,6 +77,8 @@
               <p class="i2"><a href="https://ipfs.io/ipfs/QmT98zCwk87HvHCXQGLw6T53zn4v5qqXvnxWrrkebR3YdN?filename=Lesson3_audio1_childhood_statelessness.mp3">English Audio, Part 3</a></p>
             <h5 class="i1">Transcript</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmUTV7JwMiZZrGSrWBz2kn1qtEXscc78bTrxAKccRzWGWo?filename=Lesson3_transcript_childhood_statelessness.pdf">English Transcript (Part 1)</a></p>
+            <h5 class="i1">Exercise</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmVrpWt993WRBMaWekqTVocWorF1G9zNiAsgFAuzwPfCp9?filename=lesson3_childhood_statelessness_with_logos_exercise.docx">Lesson 3 Exercise</a></p>
       </div>
   </div>
   <form class="course">
