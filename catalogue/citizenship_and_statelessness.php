@@ -85,7 +85,7 @@
             <h5 class="i1">Transcript</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmP7N6Wzgg6wUjgSW5qLuCASHUxE18XN5mNsmjKuE7NtYj?filename=Lesson3_transcript_childhood_statelessness.pdf">English Transcript (Part 1)</a></p>
             <h5 class="i1">Reading</h5>
-              <img src="../images/lesson_4_part_1_citizenship_stripping_naviating_with_a_faulty_map.png" alt="stripping_naviating_with_a_faulty_map" class=".centerImg">
+              <img src="../images/lesson_4_part_1_citizenship_stripping_naviating_with_a_faulty_map.png" alt="stripping_naviating_with_a_faulty_map" class="centerImg">
               <p class="i2"><a href="https://files.institutesi.org/Access_to_Citizenship_in_Myanmar_Report.pdf">Download Report here</a></p>
       </div>
   </div>
