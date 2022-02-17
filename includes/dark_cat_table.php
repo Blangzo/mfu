@@ -46,5 +46,9 @@
 				<td><a href="catalogue/dark_early_childhood_development.php">Early Childhood Development</a></td>
 				<td>Name Withheld</td>
 			</tr>
+			<tr>
+				<td><a href="catalogue/dark_learning_by_playing.php">Learning by Playing</a></td>
+				<td>Name Withheld</td>
+			</tr>
    </tbody>
  </table>
