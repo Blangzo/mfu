@@ -41,7 +41,7 @@
       <div class="mb-2 mt-3">
         <h3 class="course">Learning by Playing</h3>
           <h5 class="i1">Course Guide for 0-12 months (modules 1-8)</h5>
-            <p>12-36 months not yet ready</p>
+            <p class="i2">12-36 months not yet ready</p>
             <p class="i2"><a href="https://ipfs.io/ipfs/QmaZmKuAyajhoqreeSoTtLjXFLBYoJXDPu2WSDtPGPmF96/Learning_by_playing_0-12.pdf">Guidelines for Learning by Playing course</a></p>
           <h4 class="module">Module 1</h4>
             <h5 class="i1">Lecture</h5>
