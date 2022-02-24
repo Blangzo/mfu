@@ -53,7 +53,7 @@
             self-study period, we will also be available for discussion sessions with the students. We also
             encourage peer-to-peer discussion of the lessons.</p>
           <h5 class="i1">
-            <a href="https://ipfs.io/ipfs/QmdrWnhUNznBkzWFU2Q3ogLwTD5Z7XBYu78LrGdWFf7esC?filename=cc_course_guide_en.pdf">Citizenship and Statelessness Course Guide</a>
+            <a href="https://ipfs.io/ipfs/QmeyY1SGaqBHYQksbMgpxAoBhruGUccJPkB26fi4fbKMJU?filename=cc_course_guide_en.docx">Citizenship and Statelessness Course Guide</a>
           </h5>
           <h4 class="module">Module 1</h4>
             <h5 class="i1">Lecture</h5>
@@ -66,7 +66,7 @@
             <h5 class="i1">Lecture</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmeMBEnpAawjscjkpLN3F3FwEdRCNrHSvhqje9y6Kxp9no?filename=Lesson2_audio_introduction_to_citizenship_and_statelessness.mp3">English Audio</a></p>
             <h5 class="i1">Transcript</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmWZk3Ets5z4UehEWS5ijQdD6Q6q3YrerPRA7ZAXrRStiJ?filename=Lesson2_transcript_citizenship_and_statelessness.pdf">English Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmPFwrscFtnLDVJJSXpDX6FzQwABLSdjXwzFdiEMhQjCWH?filename=Lesson2_transcript_citizenship_and_statelessness.docx">English Transcript</a></p>
             <h5 class="i1">Case Study</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmUjUYNQDiBEE7RDQ57q8kufWzShYtZjKmRyb51hunRrZw?filename=lesson2_introdction_citizenship_and_statelessness_case_study.pdf">Lesson 2 Case Study</a></p>
             <h5 class="i1">Exercise</h5>
