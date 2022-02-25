@@ -100,44 +100,59 @@
                <p class="i2"><a href="https://ipfs.io/ipfs/QmdtTDfofAoKfMgSiXHUYrZTUVVCHEzt6AgDbivgtvHG6u?filename=Fundamentals%20of%20Research%20Module2%20Unit6.pdf">Karen Transcript</a></p>
                <p class="i2"><a href="https://ipfs.io/ipfs/QmYdca9S65NCMKtUFZT2kExfDJLhGGsiBJ352VJyVFxVuo?filename=Fundamentals%20of%20Research%20Module2%20Unit6.pdf">Burmese Transcript</a></p>
                <p class="i2"><a href="https://ipfs.io/ipfs/QmePjuDAFNA4WcZ3pVDpD5Ys1sThrzqt4bdt7tREqfWvJu?filename=Fundamentals%20of%20Research%20Module2%20Unit6.pdf">English Transcript</a></p>
-           <h4 class="module">Unit 7: Selecting Respondents for your Research</h4>
-             <h5 class="i1">Lectures</h5>
-               <p class="i2"><a href="https://ipfs.io/ipfs/QmenVvxdiFhrFmqHYhGkZCN2gGY2HAtMZwBiqX1qCkWExe?filename=Fundamentals%20of%20Research%20Module2%20Unit7.mp3">Karen Audio</a></p>
-               <p class="i2"><a href="https://ipfs.io/ipfs/QmPMDkL3VERsKZDgiz5h9yUC98obL8ojkNe41KTqS3AR8d?filename=Fundamentals%20of%20Research%20Module2%20Unit7.mp3">Burmese Audio</a></p>
-                <p class="i2"><a href="https://ipfs.io/ipfs/Qmd3hpL5mQgXrdvDWeJH8vAfim31emJyGsHKLYnMPWihvw?filename=Fundamentals%20of%20Research%20Module2%20Unit7.mp3">English Audio</a></p>
-              <h5 class="i1">Transcript</h5>
-                <p class="i2"><a href="https://ipfs.io/ipfs/QmYQ5a1RQcFZwPwatSpQqmoCyDkRk6u8tAwdKRWhPN4G4v?filename=Fundamentals%20of%20Research%20Module2%20Unit7.pdf">Karen Transcript</a></p>
-                <p class="i2"><a href="https://ipfs.io/ipfs/QmbrNMasFMhDVuTdMQDhbbYj3fndrS5nTrH1Fs1qZJxVTi?filename=Fundamentals%20of%20Research%20Module2%20Unit7.pdf">Burmese Transcript</a></p>
-                <p class="i2"><a href="https://ipfs.io/ipfs/QmRbZucihfGJJ3vNPFzKRZ2jvBMwMuTxEkxkRUvHmn9Jmv?filename=Fundamentals%20of%20Research%20Module2%20Unit7.pdf">English Transcript</a></p>
+          <h4 class="module">Unit 7: Selecting Respondents for your Research</h4>
+            <h5 class="i1">Lectures</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmenVvxdiFhrFmqHYhGkZCN2gGY2HAtMZwBiqX1qCkWExe?filename=Fundamentals%20of%20Research%20Module2%20Unit7.mp3">Karen Audio</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmPMDkL3VERsKZDgiz5h9yUC98obL8ojkNe41KTqS3AR8d?filename=Fundamentals%20of%20Research%20Module2%20Unit7.mp3">Burmese Audio</a></p>
+               <p class="i2"><a href="https://ipfs.io/ipfs/Qmd3hpL5mQgXrdvDWeJH8vAfim31emJyGsHKLYnMPWihvw?filename=Fundamentals%20of%20Research%20Module2%20Unit7.mp3">English Audio</a></p>
+             <h5 class="i1">Transcript</h5>
+               <p class="i2"><a href="https://ipfs.io/ipfs/QmYQ5a1RQcFZwPwatSpQqmoCyDkRk6u8tAwdKRWhPN4G4v?filename=Fundamentals%20of%20Research%20Module2%20Unit7.pdf">Karen Transcript</a></p>
+               <p class="i2"><a href="https://ipfs.io/ipfs/QmbrNMasFMhDVuTdMQDhbbYj3fndrS5nTrH1Fs1qZJxVTi?filename=Fundamentals%20of%20Research%20Module2%20Unit7.pdf">Burmese Transcript</a></p>
+               <p class="i2"><a href="https://ipfs.io/ipfs/QmRbZucihfGJJ3vNPFzKRZ2jvBMwMuTxEkxkRUvHmn9Jmv?filename=Fundamentals%20of%20Research%20Module2%20Unit7.pdf">English Transcript</a></p>
           <h4 class="module">Unit 8: Interview Skills</h4>
             <h5 class="i1">Lectures</h5>
-               <p class="i2"><a href="https://ipfs.io/ipfs/QmZ5VRi49wvfFV76fvGbqzBVEhvuaQ54djkM6mdmV6ugRx?filename=Fundamentals%20of%20Research%20Module2%20Unit8.mp3">Karen Audio</a></p>
-               <p class="i2"><a href="https://ipfs.io/ipfs/QmZC8u8i2zrz6WM1oiQ4RHKZXB3a527nwuaXpPSr9b9Vsa?filename=Fundamentals%20of%20Research%20Module2%20Unit8.mp3">Burmese Audio</a></p>
-               <p class="i2"><a href="https://ipfs.io/ipfs/QmSqgnSef8iki5jV1eRnSkk9stPbMu2svbaVbo4XQ9a1ff?filename=Fundamentals%20of%20Research%20Module2%20Unit8.mp3">English Audio</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmZ5VRi49wvfFV76fvGbqzBVEhvuaQ54djkM6mdmV6ugRx?filename=Fundamentals%20of%20Research%20Module2%20Unit8.mp3">Karen Audio</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmZC8u8i2zrz6WM1oiQ4RHKZXB3a527nwuaXpPSr9b9Vsa?filename=Fundamentals%20of%20Research%20Module2%20Unit8.mp3">Burmese Audio</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmSqgnSef8iki5jV1eRnSkk9stPbMu2svbaVbo4XQ9a1ff?filename=Fundamentals%20of%20Research%20Module2%20Unit8.mp3">English Audio</a></p>
+            <h5 class="i1">Transcript</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmUe2ookpM5nVxHw48o6JYTB8C6tc8fdyUd2tqCpbp5fXB?filename=Fundamentals%20of%20Research%20Module2%20Unit8.pdf">Karen Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmUe2ookpM5nVxHw48o6JYTB8C6tc8fdyUd2tqCpbp5fXB?filename=Fundamentals%20of%20Research%20Module2%20Unit8.pdf">Burmese Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmbZUmT5RqPRkrmoQr2WvH35atWcuiRuJq1Rk3u8j8GsTt?filename=Fundamentals%20of%20Research%20Module2%20Unit8.pdf">English Transcript</a></p>
+          <h4 class="module">Unit 9: Data Cleaning, Validation, and Triangulation</h4>
+            <h5 class="i1">Lectures</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmRc43KKqsw1d7MQoNsRcUbi32yfB9MCq9FvhUXyjww6At?filename=Fundamentals%20of%20Research%20Module3%20Unit9.mp3">Karen Audio</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmXb7xgUU3hk4sLgP4vL7JwigBXzJRDHJPfKNvompLByFV?filename=Fundamentals%20of%20Research%20Module3%20Unit9.mp3">Burmese Audio</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmbCQgxQtTVHQ9qoqd9FgBkkBdS2J1ds2qan2Dt9AK5Sfe?filename=Fundamentals%20of%20Research%20Module3%20Unit9.mp3">English Audio</a></p>
+            <h5 class="i1">Transcript</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmVR5ZsScTYyxKNjsrMUoJbtFtWJjan6rUTUQVyA5NfpVR?filename=Fundamentals%20of%20Research%20Module3%20Unit9.pdf">Karen Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmVZzV6ehTZm1vvJH2gsFTbL5ww7UiquyFiaPNzkoTJAva?filename=Fundamentals%20of%20Research%20Module3%20Unit9.pdf">Burmese Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmU8KdZ6VWA6GqBmXJJamf4PoMw3bn1Wp1Ckn2z232dR4U?filename=Fundamentals%20of%20Research%20Module3%20Unit9.pdf">English Transcript</a></p>
+          <h4 class="module">Unit 10: Qualitative Analysis</h4>
+            <h5 class="i1">Lectures</h5>
+               <p class="i2"><a href="https://ipfs.io/ipfs/QmTxqvVTe8v9UG7ENY4SWtJkvMNVDEhLQXUU9kU2t8wxSX?filename=Fundamentals%20of%20Research%20Module3%20Unit10.mp3">Karen Audio</a></p>
+               <p class="i2"><a href="https://ipfs.io/ipfs/QmSxAYUspXSAWWsck2WeEpC3cFsmcLPhy7g8J3pgp3uLyV?filename=Fundamentals%20of%20Research%20Module3%20Unit10.mp3">Burmese Audio</a></p>
+               <p class="i2"><a href="https://ipfs.io/ipfs/QmT9ca8epYZ68sN7wHjSWX1KcWy3cKS6WENG7tSfd7Dp5J?filename=Fundamentals%20of%20Research%20Module3%20Unit10.mp3">English Audio</a></p>
              <h5 class="i1">Transcript</h5>
-               <p class="i2"><a href="https://ipfs.io/ipfs/QmUe2ookpM5nVxHw48o6JYTB8C6tc8fdyUd2tqCpbp5fXB?filename=Fundamentals%20of%20Research%20Module2%20Unit8.pdf">Karen Transcript</a></p>
-               <p class="i2"><a href="https://ipfs.io/ipfs/QmUe2ookpM5nVxHw48o6JYTB8C6tc8fdyUd2tqCpbp5fXB?filename=Fundamentals%20of%20Research%20Module2%20Unit8.pdf">Burmese Transcript</a></p>
-               <p class="i2"><a href="https://ipfs.io/ipfs/QmbZUmT5RqPRkrmoQr2WvH35atWcuiRuJq1Rk3u8j8GsTt?filename=Fundamentals%20of%20Research%20Module2%20Unit8.pdf">English Transcript</a></p>
-           <h4 class="module">Unit 9: Data Cleaning, Validation, and Triangulation</h4>
-             <h5 class="i1">Lectures</h5>
-                <p class="i2"><a href="https://ipfs.io/ipfs/QmRc43KKqsw1d7MQoNsRcUbi32yfB9MCq9FvhUXyjww6At?filename=Fundamentals%20of%20Research%20Module3%20Unit9.mp3">Karen Audio</a></p>
-                <p class="i2"><a href="https://ipfs.io/ipfs/QmXb7xgUU3hk4sLgP4vL7JwigBXzJRDHJPfKNvompLByFV?filename=Fundamentals%20of%20Research%20Module3%20Unit9.mp3">Burmese Audio</a></p>
-                <p class="i2"><a href="https://ipfs.io/ipfs/QmbCQgxQtTVHQ9qoqd9FgBkkBdS2J1ds2qan2Dt9AK5Sfe?filename=Fundamentals%20of%20Research%20Module3%20Unit9.mp3">English Audio</a></p>
-              <h5 class="i1">Transcript</h5>
-                <p class="i2"><a href="https://ipfs.io/ipfs/QmVR5ZsScTYyxKNjsrMUoJbtFtWJjan6rUTUQVyA5NfpVR?filename=Fundamentals%20of%20Research%20Module3%20Unit9.pdf">Karen Transcript</a></p>
-                <p class="i2"><a href="https://ipfs.io/ipfs/QmVZzV6ehTZm1vvJH2gsFTbL5ww7UiquyFiaPNzkoTJAva?filename=Fundamentals%20of%20Research%20Module3%20Unit9.pdf">Burmese Transcript</a></p>
-                <p class="i2"><a href="https://ipfs.io/ipfs/QmU8KdZ6VWA6GqBmXJJamf4PoMw3bn1Wp1Ckn2z232dR4U?filename=Fundamentals%20of%20Research%20Module3%20Unit9.pdf">English Transcript</a></p>
-            <h4 class="module">Unit 10: Qualitative Analysis</h4>
-              <h5 class="i1">Lectures</h5>
-                 <p class="i2"><a href="https://ipfs.io/ipfs/QmTxqvVTe8v9UG7ENY4SWtJkvMNVDEhLQXUU9kU2t8wxSX?filename=Fundamentals%20of%20Research%20Module3%20Unit10.mp3">Karen Audio</a></p>
-                 <p class="i2"><a href="https://ipfs.io/ipfs/QmSxAYUspXSAWWsck2WeEpC3cFsmcLPhy7g8J3pgp3uLyV?filename=Fundamentals%20of%20Research%20Module3%20Unit10.mp3">Burmese Audio</a></p>
-                 <p class="i2"><a href="https://ipfs.io/ipfs/QmT9ca8epYZ68sN7wHjSWX1KcWy3cKS6WENG7tSfd7Dp5J?filename=Fundamentals%20of%20Research%20Module3%20Unit10.mp3">English Audio</a></p>
-               <h5 class="i1">Transcript</h5>
-                 <p class="i2"><a href="https://ipfs.io/ipfs/QmWsTXSwd2WRHzZFmLBa2nnxzKH6Q4DNPueRE3rcPstjP5?filename=Fundamentals%20of%20Research%20Module3%20Unit10.pdf">Karen Transcript</a></p>
-                 <p class="i2"><a href="https://ipfs.io/ipfs/QmcrVr5GGjWPtmapmix6od3XmWEcwwsdpcj4jZNwxjAMxt?filename=Fundamentals%20of%20Research%20Module3%20Unit10.pdf">Burmese Transcript</a></p>
-                 <p class="i2"><a href="https://ipfs.io/ipfs/QmVAToYid6LfGvBuWEPzSeGsY9fN5B2fzyi6YtN5q6bguV?filename=Fundamentals%20of%20Research%20Module3%20Unit10.pdf">English Transcript</a></p>
-
-
+               <p class="i2"><a href="https://ipfs.io/ipfs/QmWsTXSwd2WRHzZFmLBa2nnxzKH6Q4DNPueRE3rcPstjP5?filename=Fundamentals%20of%20Research%20Module3%20Unit10.pdf">Karen Transcript</a></p>
+               <p class="i2"><a href="https://ipfs.io/ipfs/QmcrVr5GGjWPtmapmix6od3XmWEcwwsdpcj4jZNwxjAMxt?filename=Fundamentals%20of%20Research%20Module3%20Unit10.pdf">Burmese Transcript</a></p>
+               <p class="i2"><a href="https://ipfs.io/ipfs/QmVAToYid6LfGvBuWEPzSeGsY9fN5B2fzyi6YtN5q6bguV?filename=Fundamentals%20of%20Research%20Module3%20Unit10.pdf">English Transcript</a></p>
+          <h4 class="module">Unit 11: Qualitative Analysis</h4>
+            <h5 class="i1">Lectures</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmZw4hFwS9HGXNtmYGzf6HTYKiKeqQRiQf8ob7HsrzW95j?filename=Fundamentals%20of%20Research%20Module3%20Unit10.mp3">Karen Audio</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmdSmYth8LbbDxexGozyDEdhYLk7BEiyZZy2Uk2UEKrKjY?filename=Fundamentals%20of%20Research%20Module3%20Unit10.mp3">Burmese Audio</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmWWFBegqZ1p2bVNjtYvrnCHAT9m15CX1Vch9SNAvC3erj?filename=Fundamentals%20of%20Research%20Module3%20Unit10.mp3">English Audio</a></p>
+            <h5 class="i1">Transcript</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmZzEfTPJGLiuKsunuN7D4NKDC1W2CVHyTMoBd4VcMS464?filename=Fundamentals%20of%20Research%20Module3%20Unit10.pdf">Karen Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmdJNmrtRBF3xbHJ7gELnFA53aKLoeGnAujEVzevAdVYem?filename=Fundamentals%20of%20Research%20Module3%20Unit10.pdf">Burmese Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmZ9knjhx9KoJn1HugmgcU9odNYPjAABcD9LfSsnMmvHMC?filename=Fundamentals%20of%20Research%20Module3%20Unit10.pdf">English Transcript</a></p>
+          <h4 class="module">Unit 12: Presenting Results</h4>
+            <h5 class="i1">Lectures</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmV11Q5HCzDdCpmuTokdbEqGoM7u9fUdDdzxoRfE579TXK?filename=Fundamentals%20of%20Research%20Module3%20Unit10.mp3">Burmese Audio</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmeCwQYoXsk2ruvTmPfNTcJ4BKAJ1Hbkww8Tf6L8FTSB9D?filename=Fundamentals%20of%20Research%20Module3%20Unit10.mp3">English Audio</a></p>
+            <h5 class="i1">Transcript</h5>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmfAGb3GPhSqBWoWkijFNQM8B5zrcrqcoy387M7FgHfyZ4?filename=Fundamentals%20of%20Research%20Module3%20Unit10.pdf">Karen Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmU1x7aZWB3ifCfezSUDaaRZm3z8WdxGyBB3hKEERX6nMm?filename=Fundamentals%20of%20Research%20Module3%20Unit10.pdf">Burmese Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmT64E27nbxEjXU8N5PE9kRjNfQCshJ1ksjVHGNjq6yo5b?filename=Fundamentals%20of%20Research%20Module3%20Unit10.pdf">English Transcript</a></p>
       </div>
   </div>
   <form class="course">
