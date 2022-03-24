@@ -48,7 +48,7 @@
 			</tr>
 			<tr>
 				<td><a href="catalogue/dark_learning_by_playing.php">Learning by Playing</a></td>
-				<td>Name Withheld</td>
+				<td>ကစားရင်းဖွံ့ဖြိုး</td>
 			</tr>
    </tbody>
  </table>
