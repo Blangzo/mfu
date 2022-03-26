@@ -47,7 +47,9 @@
 				<td>Name Withheld</td>
 			</tr>
 			<tr>
-				<td><a href="catalogue/dark_learning_by_playing.php">Learning by Playing</a></td>
+				<td><p><a href="catalogue/learning_by_playing.php">Learning by Playing</a></p>
+				    <p><a href="catalogue/learning_by_playing.php">ကစားရင်းဖွံ့ဖြိုး၊ ဖွံ့ဖြိုးရင်းကစား</a></p>
+				</td>
 				<td>ကစားရင်းဖွံ့ဖြိုး</td>
 			</tr>
    </tbody>
