@@ -9,8 +9,8 @@
             <p class="i2">25-36 months not yet ready</p>
             <p class="i2"><a href="https://ipfs.io/ipfs/QmYGKtNY6q7FCRK84mGc8RVqdH5WVzoTJmzHnmtibdJJSR/Learning_by_playing_12-24.pdf">Guidelines for Learning by Playing course 12-24 months</a></p>
           <h5 class="i1">ကလေးတိုင်းဖွံဖြိုးခွင့်ရှိသည် (Every child has the right to develop)</h5>
-            <p class="i2"><a href="https://ipfs.io/ipfs/QmRMQydPye7hxY4hgRuQ2srmpWNYyi6ZMu1g4aJeHiH4yr/ကလေးတိုင်းဖွံ့ဖြိုးခွင့်ရှိသည်.mp3">audio</a></p>
-            <p class="i2"><a href="https://ipfs.io/ipfs/QmZxLKNhWTVhXWz2FFgVTdTqVhi7mywz3ZYEWidLETHdLu/ကလေးတိုင်းဖွံ့ဖြိုးခွင့်ရှိသည်.pdf">transcript</a></p>
+            <p class="i2"><a href="https://ipfs.io/ipfs/QmRMQydPye7hxY4hgRuQ2srmpWNYyi6ZMu1g4aJeHiH4yr?filename=ကလေးတိုင်းဖွံ့ဖြိုးခွင့်ရှိသည်.mp3">audio</a></p>
+            <p class="i2"><a href="https://ipfs.io/ipfs/QmZxLKNhWTVhXWz2FFgVTdTqVhi7mywz3ZYEWidLETHdLu?filename=ကလေးတိုင်းဖွံ့ဖြိုးခွင့်ရှိသည်.pdf">transcript</a></p>
 
           <h4 class="module">Module 1</h4>
             <h5 class="i1">Lecture</h5>
