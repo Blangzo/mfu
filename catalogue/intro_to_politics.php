@@ -35,7 +35,7 @@
       <h2 class="title-color mb-2 text-center">Virtual Federal University</h2>
   </div>
   <hr />
- <?php include 'includes/intro_to_politics_inclue.php';?>
+ <?php include './intro_to_politics_inclue.php';?>
   <form class="course">
     <button onclick="location.href='../catalogue.php'" type="button">Back to catalogue</button>
   </form>
