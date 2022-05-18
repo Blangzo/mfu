@@ -14,9 +14,9 @@
 
           <h4 class="module">Module 1</h4>
             <h5 class="i1">Lecture</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmaZmKuAyajhoqreeSoTtLjXFLBYoJXDPu2WSDtPGPmF96/Lecture_1/LbyP_L1.mp4">video</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmaZmKuAyajhoqreeSoTtLjXFLBYoJXDPu2WSDtPGPmF96/LbyP_L1.mp4">video</a></p>
             <h5 class="i1">Transcript</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmaZmKuAyajhoqreeSoTtLjXFLBYoJXDPu2WSDtPGPmF96/Lecture_1/Transcript_L1.pdf">Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmaZmKuAyajhoqreeSoTtLjXFLBYoJXDPu2WSDtPGPmF96/Transcript_L1.pdf">Transcript</a></p>
 
           <h4 class="module">Module 2</h4>
             <h5 class="i1">Lecture</h5>
@@ -62,56 +62,56 @@
 
           <h4 class="module">Module 9</h4>
             <h5 class="i1">Lecture</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmUMe7c2vpH1v2318cQNMd1f8Lq4TrovQTQ6hTWhbwHw5C/Lecture_1/LbyP_12-24_01.mp4">video</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmUMe7c2vpH1v2318cQNMd1f8Lq4TrovQTQ6hTWhbwHw5C/LbyP_12-24_01.mp4">video</a></p>
             <h5 class="i1">Transcript</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmXaAFWM5DRrr3xm5EsviEboGf2gFRickn9L6nA1uCGc9t/Lecture_1/LbyP_12-24_01_Transcript.pdf">Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmXaAFWM5DRrr3xm5EsviEboGf2gFRickn9L6nA1uCGc9t/LbyP_12-24_01_Transcript.pdf">Transcript</a></p>
 
           <h4 class="module">Module 10</h4>
             <h5 class="i1">Lecture</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmVnjf8pQAXcUb9ZBzDQeN5ZJ51YunotDCzuyeF7KV3m4z/Lecture_1/LbyP_12-24_02.mp4">video</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmVnjf8pQAXcUb9ZBzDQeN5ZJ51YunotDCzuyeF7KV3m4z/LbyP_12-24_02.mp4">video</a></p>
             <h5 class="i1">Transcript</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmQxz8WUTqkdDzyjnS3XJ5ore1SCAXueWyhcE5wJdioBA9/Lecture_1/LbyP_12-24_02_Transcript.pdf">Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmQxz8WUTqkdDzyjnS3XJ5ore1SCAXueWyhcE5wJdioBA9/LbyP_12-24_02_Transcript.pdf">Transcript</a></p>
 
           <h4 class="module">Module 11</h4>
             <h5 class="i1">Lecture</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmavL36TLbqvR7xNT63YodTX5sSZxkj6j343X5thTFYj7g/Lecture_1/LbyP_12-24_03.mp4">video</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmavL36TLbqvR7xNT63YodTX5sSZxkj6j343X5thTFYj7g/LbyP_12-24_03.mp4">video</a></p>
             <h5 class="i1">Transcript</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmVG8fvwBLCaoAeVRPttdFA3xRcHGLXrKQPNkfyzvwuRB8/Lecture_1/LbyP_12-24_03_Transcript.pdf">Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmVG8fvwBLCaoAeVRPttdFA3xRcHGLXrKQPNkfyzvwuRB8/LbyP_12-24_03_Transcript.pdf">Transcript</a></p>
 
           <h4 class="module">Module 12</h4>
             <h5 class="i1">Lecture</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmTbpXdbEcLA7y5EGRv979M31DsXvXC3Sn43fULi1pnuWC/Lecture_1/LbyP_12-24_04.mp4">video</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmTbpXdbEcLA7y5EGRv979M31DsXvXC3Sn43fULi1pnuWC/LbyP_12-24_04.mp4">video</a></p>
             <h5 class="i1">Transcript</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmddcR6JAai8Zos8ycxYEX2enhWjyGAh8RyG6MRw6z1SgY/Lecture_1/LbyP_12-24_04_Transcript.pdf">Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmddcR6JAai8Zos8ycxYEX2enhWjyGAh8RyG6MRw6z1SgY/LbyP_12-24_04_Transcript.pdf">Transcript</a></p>
 
           <h4 class="module">Module 13</h4>
             <h5 class="i1">Lecture</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmP57QiS4MEPWDLeWbtbPpzwf5Q1ZkPK4z1SfCmoR7Mkjb/Lecture_1/LbyP_12-24_05.mp4">video</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmP57QiS4MEPWDLeWbtbPpzwf5Q1ZkPK4z1SfCmoR7Mkjb/LbyP_12-24_05.mp4">video</a></p>
             <h5 class="i1">Transcript</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmSr6p2FY3q9a1t6AwQ5zVUwYkiX1g9YzdbNvGTcNiPymL/Lecture_1/LbyP_12-24_05_Transcript.pdf">Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmSr6p2FY3q9a1t6AwQ5zVUwYkiX1g9YzdbNvGTcNiPymL/LbyP_12-24_05_Transcript.pdf">Transcript</a></p>
 
           <h4 class="module">Module 14</h4>
             <h5 class="i1">Lecture</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmQQ8sBSsTrfaKLduS37bgRm4aGHELwMaZaoN6q5NnDR5r/Lecture_1/LbyP_12-24_06.mp4">video</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmQQ8sBSsTrfaKLduS37bgRm4aGHELwMaZaoN6q5NnDR5r/LbyP_12-24_06.mp4">video</a></p>
             <h5 class="i1">Transcript</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmQ25zBNabhjVb3y1pG1xWdREdKDekyRkfSYxLLhyoF8s1/Lecture_1/LbyP_12-24_06_Transcript.pdf">Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmQ25zBNabhjVb3y1pG1xWdREdKDekyRkfSYxLLhyoF8s1/LbyP_12-24_06_Transcript.pdf">Transcript</a></p>
 
           <h4 class="module">Module 15</h4>
             <h5 class="i1">Lecture</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmcjMwSSLf9HaFLTV1aJByEQVRPSBXjcSqPKmPmFRUy6bV/Lecture_1/LbyP_12-24_07.mp4">video</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmcjMwSSLf9HaFLTV1aJByEQVRPSBXjcSqPKmPmFRUy6bV/LbyP_12-24_07.mp4">video</a></p>
             <h5 class="i1">Transcript</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmZiXoLJPNL7fXRTzsjzCSjBP5WUrdWBGHK3piHMZhhQX4/Lecture_1/LbyP_12-24_07_Transcript.pdf">Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmZiXoLJPNL7fXRTzsjzCSjBP5WUrdWBGHK3piHMZhhQX4/LbyP_12-24_07_Transcript.pdf">Transcript</a></p>
 
           <h4 class="module">Module 16</h4>
             <h5 class="i1">Lecture</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmNjUxB7QGyqWhnmVh2rs2q1gPaoU5MZrNPPoLwHZ2NKsQ/Lecture_1/LbyP_12-24_08.mp4">video</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmNjUxB7QGyqWhnmVh2rs2q1gPaoU5MZrNPPoLwHZ2NKsQ/LbyP_12-24_08.mp4">video</a></p>
             <h5 class="i1">Transcript</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmUxQ9Ls8C4thnz2gkAG5eRcD2CHWyd8SMyFYmhhstwAD6/Lecture_1/LbyP_12-24_08_Transcript.pdf">Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmUxQ9Ls8C4thnz2gkAG5eRcD2CHWyd8SMyFYmhhstwAD6/LbyP_12-24_08_Transcript.pdf">Transcript</a></p>
 
           <h4 class="module">Module 17</h4>
             <h5 class="i1">Lecture</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmbnHZmETJb7ms6Qv967Qn7y3VnrKRFCZ8zgSQ11hcvJCk/Lecture_1/LbyP_12-24_09.mp4">video</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmbnHZmETJb7ms6Qv967Qn7y3VnrKRFCZ8zgSQ11hcvJCk/LbyP_12-24_09.mp4">video</a></p>
             <h5 class="i1">Transcript</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmURZdF5PUXCjFmLUeeRJdtT4yR34vKgRDMQLtiZf1wxXc/Lecture_1/LbyP_12-24_09_Transcript.pdf">Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmURZdF5PUXCjFmLUeeRJdtT4yR34vKgRDMQLtiZf1wxXc/LbyP_12-24_09_Transcript.pdf">Transcript</a></p>
       </div>
   </div>
