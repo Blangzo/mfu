@@ -46,11 +46,11 @@
             <h5 class="i1">Lectures</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmVeq1iwqD8U9raJiaXXebvZvZfZja2c98yvSS9zXBQnpE?filename=The-state_Burmese.mp3">Burmese Audio</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmZqzMRXbyS8m9V8qYgys86bzoptqhtpvv2G4oNLu8LZKc?filename=The-state_English.mp3">English Audio</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmZwxQiaeB2bAQPC7pjUDtNmswqaJ2DSKnhAV7xLpF8uZF?filename=The-state_English.mp3">Shan Audio</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmZwxQiaeB2bAQPC7pjUDtNmswqaJ2DSKnhAV7xLpF8uZF?filename=The-state_Shan.mp3">Shan Audio</a></p>
             <h5 class="i1">Transcripts</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmR6Nh2LxiZdvg4A8CwrcS7U8bSHiRbFyXCForhY6Q5peC?filename=The-state_Burmese.pdf">Burmese Transcript</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmRmUY3or3Dbq1XP7oHz2LgTxSE12a8ttvTD8NxyK4NCqH?filename=The-state_English.pdf">English Transcript</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/Qmd4DLhVR9tVZXECk5rqz7inqzuMe1Rg3ZcYuRzow4ivfZ?filename=The-state_English.pdf">Shan Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmRmUY3or3Dbq1XP7oHz2LgTxSE12a8ttvTD8NxyK4NCqH?filename=The-state_Shan.pdf">Shan Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/Qmd4DLhVR9tVZXECk5rqz7inqzuMe1Rg3ZcYuRzow4ivfZ?filename=The-state_English.pdf">English Transcript</a></p>
             <h5 class="i1">Readings</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmNMdwxF5BaGsX9EcPJUSyosNyohT9v1zojtd6sgnyRzHg?filename=Is%20the%20State%20a%20force%20for%20good%20Heywood.pdf">Is the State a force for good [Heywood]</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmaKv6SsbCuudz9ZoyHSpY1CsqDk1ZNUpt7EyMtD2NQYhT?filename=What%20is%20a%20state%20ONeil.pdf">What is a state [ONeil]</a></p>
@@ -58,23 +58,23 @@
             <h5 class="i1">Lectures</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmRDQadBU9GPEzYVEMh3XgQirkerGBMbnMieGBjwz37GdN?filename=Ideologies_Burmese.mp3">Burmese Audio</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmYXi2u2jJpoB27aJ5VxtoeweTFZdpf5Cknd9mQuTxnc2L?filename=Ideologies_English.mp3">English Audio</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmZLG1SdLVdwTRtd9ovATovUTZvZeuch2TFvRp4S1Ph2jd?filename=Ideologies_English.mp3">Shan Audio</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmZLG1SdLVdwTRtd9ovATovUTZvZeuch2TFvRp4S1Ph2jd?filename=Ideologies_Shan.mp3">Shan Audio</a></p>
             <h5 class="i1">Transcripts</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmdFCFtKkA7GyyQKjjqJVsWXmkesVw82GsTLSmpWjHNfCG?filename=Ideologies.pdf">Burmese Transcript</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/Qmd2dbRSWVC9aYFtZPtNT3j5cAN5br8S8gUgGaVNXWXbjf?filename=Ideologies_English.pdf">English Transcript</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmeDtVpXUDoGYpntJBh2qbiQzUaTfEP8mRbsWA8APQVxxR?filename=Ideologies%20Explanations.pdf">English Explanations to pair with transcript</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmTK1KD3sS2kM7CaZwGVQXKspZM8aawojEtzS6hXTi8ukq?filename=Ideologies_English.pdf">Shan Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmTK1KD3sS2kM7CaZwGVQXKspZM8aawojEtzS6hXTi8ukq?filename=Ideologies_Shan.pdf">Shan Transcript</a></p>
             <h5 class="i1">Readings</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmdNPfrHybqgmm5aFtFjypAy6Z8ZQypFRD32qVqm4yJHNf?filename=Hiestories%20of%20Burma%20Source%20book.pdf">Histories of Burma Source book</a></p>
           <h4 class="module">Unit 6: Democracy</h4>
             <h5 class="i1">Lectures</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmaJXAdYy7kpWLRGTG5kQuXzBt4U1qagAYdKXUVrogPJxx?filename=Democracy_Burmese.mp3">Burmese Audio</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmbFa38yWQjrrzHdHMLKYV2nuqRBmRVtAYBdXPtGztUCDv?filename=Democracy_English.mp3">English Audio</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmU57S65DoLGNqLvGK5hyQ1nxvQP3PPUKtaBuRKiUMeqxa?filename=Democracy_English.mp3">Shan Audio</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmU57S65DoLGNqLvGK5hyQ1nxvQP3PPUKtaBuRKiUMeqxa?filename=Democracy_Shan.mp3">Shan Audio</a></p>
             <h5 class="i1">Transcripts</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmVe8WsJmxfWYo7Yg6CQuXXwa2hMRLvz9xhAFPrpPrfhWd?filename=Democracy_Burmese.pdf">Burmese Transcript</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmcnjjVwCxevUyFocm3zWcdicytv2MntcRzffnp2B8PNim?filename=Democracy_English.pdf">English Transcript</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/Qmcay7LxxY3ujx6sMQHBFC9PQ7zhryCmQk2qYVWPZ9vnvM?filename=Democracy_English.pdf">Shan Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/Qmcay7LxxY3ujx6sMQHBFC9PQ7zhryCmQk2qYVWPZ9vnvM?filename=Democracy_Shan.pdf">Shan Transcript</a></p>
             <h5 class="i1">Readings</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/Qmeuc926x4sry1X4kszhJLW68hNupGxHdkxr3TDAvt9RnF?filename=Hiestories%20of%20Burma%20Source%20book.pdf">Democracy Chapter 2</a></p>
           <h4 class="module">Unit 7: Government and Economy</h4>
@@ -85,18 +85,18 @@
             <h5 class="i1">Transcripts</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmTHd5y39Wf8bVp8uaHnke2thwtvAWHy2mQj5A4P3rA57K?filename=Govt-and-economy_Burmese.pdf">Burmese Transcript</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmbRvQkgNk3wKuCx1mgs6UX8zCArmC2Zc7x6W7a1bQus1g?filename=Govt-and-economy_English.pdf">English Transcript</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmPx1UyTyDEDD66yBYLgbi7QKiRBjg6H5BnCrCLTcLCaX7?filename=Govt-and-economy_English.pdf">Shan Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmPx1UyTyDEDD66yBYLgbi7QKiRBjg6H5BnCrCLTcLCaX7?filename=Govt-and-economy_Shan.pdf">Shan Transcript</a></p>
             <h5 class="i1">Readings</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmZzVa8moyUJxGqRTRjC9hpCWrXCaqoiqz1RoKvCdM4nas?filename=Hiestories%20of%20Burma%20Source%20book.pdf">Political Economy</a></p>
           <h4 class="module">Unit 8: Federalism</h4>
             <h5 class="i1">Lectures</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmUqUwQEzFNfbcJnWKe9twu51ry1q5oMdJ2oAWqgtcyEzr?filename=Federalism_Burmese.mp3">Burmese Audio</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmSyhpTswZKufga3CaYmEwE9G9er2LsvtQJYoHqFuA7HrQ?filename=Federalism_English.mp3">English Audio</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmV2E36nY3aYgBsgY7hAjASAo452nkeR9e3tvevs9aBsPQ?filename=Federalism_English.mp3">Shan Audio</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmV2E36nY3aYgBsgY7hAjASAo452nkeR9e3tvevs9aBsPQ?filename=Federalism_Shan.mp3">Shan Audio</a></p>
             <h5 class="i1">Transcripts</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmSw5iJKFF8K8QWh11TYpocaXPwjTofiCMcqxraXQVRMLs?filename=Federalism_Burmese.pdf">Burmese Transcript</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmVwxS1SwXw71Pz52PZagvEeAWp3euqutRf3cJxD87k8gw?filename=Federalism_En.pdf">English Transcript</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmRu1c2UjqfibiWeL7SmMGS5s4wvmuJkyCmuycwopyfF9L?filename=Federalism_En.pdf">Shan Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmRu1c2UjqfibiWeL7SmMGS5s4wvmuJkyCmuycwopyfF9L?filename=Federalism_Shan.pdf">Shan Transcript</a></p>
             <h5 class="i1">Readings</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmYr8vbW4EgAowxenRshY3DrQxr38554aPR6ZEC4QapTa9?filename=Hiestories%20of%20Burma%20Source%20book.pdf">Sai Wansai Commentary on the Shan federal proposal</a></p>
           <h4 class="module">Unit 9: Elections and Political Parties</h4>
