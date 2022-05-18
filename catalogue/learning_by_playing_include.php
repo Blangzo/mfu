@@ -14,9 +14,9 @@
 
           <h4 class="module">Module 1</h4>
             <h5 class="i1">Lecture</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmaZmKuAyajhoqreeSoTtLjXFLBYoJXDPu2WSDtPGPmF96/LbyP_L1.mp4">video</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmaZmKuAyajhoqreeSoTtLjXFLBYoJXDPu2WSDtPGPmF96/Lecture_1//LbyP_L1.mp4">video</a></p>
             <h5 class="i1">Transcript</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmaZmKuAyajhoqreeSoTtLjXFLBYoJXDPu2WSDtPGPmF96/Transcript_L1.pdf">Transcript</a></p>
+              <p class="i2"><a href="https://ipfs.io/ipfs/QmaZmKuAyajhoqreeSoTtLjXFLBYoJXDPu2WSDtPGPmF96/Lecture_1/Transcript_L1.pdf">Transcript</a></p>
 
           <h4 class="module">Module 2</h4>
             <h5 class="i1">Lecture</h5>
