@@ -27,7 +27,7 @@
     <a href="../dark_contact.php">Contact</a>
     <a href="../dark_technical.php">Technical</a>
     <a class="mode" href="intro_to_politics.php" id="light_mode">Light Mode</a>
-    <a href="intro_to_politics.php" id="dark_mode" class="active mode">Dark Mode</a>
+    <a href="dark_intro_to_politics.php" id="dark_mode" class="active mode">Dark Mode</a>
   </div>
 
   <div class="mb-2 mt-2">
