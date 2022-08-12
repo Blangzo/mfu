@@ -37,7 +37,7 @@
   <hr />
  <?php include './intro_to_comparative_federalism_include.php';?>
     <form class="course">
-      <button onclick="location.href='../catalogue.php'" type="button">Back to catalogue</button>
+      <button onclick="location.href='../dark_catalogue.php'" type="button">Back to catalogue</button>
     </form>
   </body>
   </html>

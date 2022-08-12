@@ -47,10 +47,14 @@
 				<td>Name Withheld</td>
 			</tr>
 			<tr>
-				<td><a href="catalogue/learning_by_playing.php">Learning by Playing</a>
+				<td><a href="catalogue/dark_learning_by_playing.php">Learning by Playing</a>
 				    <br>
-				    <a href="catalogue/learning_by_playing.php">ကစားရင်းဖွံ့ဖြိုး၊ ဖွံ့ဖြိုးရင်းကစား</a>
+				    <a href="catalogue/dark_learning_by_playing.php">ကစားရင်းဖွံ့ဖြိုး၊ ဖွံ့ဖြိုးရင်းကစား</a>
 				</td>
+				<td>Name Withheld</td>
+			</tr>
+			<tr>
+				<td><a href="catalogue/dark_intro_to_comparative_federalism.php">Intro to Comparative Federalism</a></td>
 				<td>Name Withheld</td>
 			</tr>
    </tbody>

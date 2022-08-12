@@ -38,7 +38,7 @@
   <hr />
  <?php include './learning_by_playing_include.php';?>
   <form class="course">
-    <button onclick="location.href='../catalogue.php'" type="button">Back to catalogue</button>
+    <button onclick="location.href='../dark_catalogue.php'" type="button">Back to catalogue</button>
   </form>
 </div>
 </body>
