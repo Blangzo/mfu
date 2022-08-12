@@ -103,6 +103,7 @@
             <h5 class="i1">Lectures</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmTK59bXdaLpRzKxqg63mCHNoGkex9yQWfJEGvAYsPXqss?filename=Elections-Political-Parties_English.mp3">English Audio</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmZcMPs5JPSPV9W1Yt6cCyhKwW8jt1wAnZf3hQRhp8wdV9?filename=Elections-Political-Parties_Burmese.mp3">Burmese Audio</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/Qmbxssh4BEwQZNzx7SGiRYpeYJrH8PWynBjFLxpr8QDAab">Shan Audio</a></p>
             <h5 class="i1">Transcripts</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmR6iVkJamYFPdxN3fV9WU3ejx4CtQyBQ912UskN6yYKoW?filename=Elections-Political-Parties_English.pdf">English Transcript</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmTpY5PZmABVWAojd4YkFqFHs87xivrMrJx85jQUDxQFCm?filename=Elections-Political-Parties_Burmese.pdf">Burmese Transcript</a></p>
@@ -113,6 +114,7 @@
             <h5 class="i1">Lectures</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmR7hAMSUMndLuZaNe7nDQgN2VjonUbpXmcc479mLhu227?filename=Media-Politics_English.mp3">English Audio</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmXz9eoqnYmTsqMLZFAEs9SdbYDR8aQQJPPNwEJtvpLELa?filename=Media-Politics_Burmese.mp3">Burmese Audio</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmcnfbU5jHzT3k61rGenBCaFrBJz9xiTxheicywWdSJGDC">Shan Audio</a></p>
             <h5 class="i1">Transcripts</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmRLFHHZsiDQpXAWjTob2cobZs2F6YwujA8fkAPgpPKFSq?filename=Media-Politics_English.pdf">English Transcript</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmeGzqjGgfkcgTC9DxGkW61tydJSuSMgohAD96pDM5dXQ9?filename=Media-Politics_Burmese.pdf">Burmese Transcript</a></p>
@@ -123,6 +125,7 @@
             <h5 class="i1">Lectures</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmWnJ4feePgwoAXaoehmksDACpkwSoYc8363MviYvdjDdg?filename=Civil-Society_English.mp3">English Audio</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmZCrrsMko9tK1XZTsVu15cpdeJ97UA8abE3n8Wrk61kC8?filename=Civil-Society_Burmese.mp3">Burmese Audio</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmYNyZUnaA8ewhScEroTB6ozjZDsyMxu2GGKdUkahGdsqs">Shan Audio</a></p>
             <h5 class="i1">Transcripts</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/Qma1XwgcUby1X6Bib2P6DmeTUAAPvyu43k3omznEhkAN64?filename=Civil-Society_Burmese.pdf">Burmese Transcript</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmP9NtqLtBQ8qeuVDnkqgUVWbSN4hX5qQyzQc45yQpsPYy?filename=Civil-Society_English.pdf">English Transcript</a></p>
@@ -133,6 +136,7 @@
             <h5 class="i1">Lectures</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmbRJAygxav8y3fSQyEBbY3vKCh7pqGX9uXfmKikAU85in?filename=Global-politics_English.mp3">English Audio</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmX8aYwXcHBVGyiRd5ypWFL1s3g6caPPjndRiNwFuF24S9?filename=Global-politics_Burmese.mp3">Burmese Audio</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmY48HpAb8FrLnFJ29RBtoNzwzxWvLirYnLiE5P1mZQ1Mz">Shan Audio</a></p>
             <h5 class="i1">Transcripts</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmbCYoZUe5SPdKTF8x1uyAAMXfKDXaX3ZwyerbANyfE68P?filename=Global-politics_English.pdf">English Transcript</a></p>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmQQ7qUkUqiCV23UsohoHK9oJGUwKDXB3r5XVhCiM3v5fw?filename=Global-politics_Burmese.pdf">Burmese Transcript</a></p>
