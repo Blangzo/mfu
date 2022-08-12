@@ -94,7 +94,7 @@
               <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmNPYE3XC6B3N4CHQ43ysibfzSSDxwmkrk989XYboFWUMD"> Bossert, Thomas J., and Gregory P. Marchildon, eds. Federalism and Decentralization in Health Care A Decision Space Approach. Toronto ; Buffalo ; London  University of  Toronto Press, 2018</a></p>
               <p class="i2">Wong, Kenneth K., Felix Knüpling, Mario Kölling, and Diana Chebenova, eds. Federalism and Education Ongoing Challenges and Policy Strategies in Ten Countries. Chapter 8</a></p>
 
-          <h4 class="module">Lecture 1: Constitution and Federalism</h4>
+          <h4 class="module">Lecture 10: Constitution and Federalism</h4>
             <h5 class="i1">Lectures</h5>
               <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmQd6SRp75rzXwRtgix28hqA4QNyAWAesCNHvw11jT6D5Z">Burmese Audio - Constitution and Federalism</a></p>
             <h5 class="i1">Transcripts</h5>
