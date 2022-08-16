@@ -44,31 +44,31 @@
         <p class="i2">This course will cover 5 “myths” about Burma’s history: “master narratives” that have been repeated in school textbooks and state media for so long that they may subtly influence even people who are skeptical of government propaganda. The first episode will cover how history curricula have been used as political tools in Burma and worldwide. The other 5 episodes use primary source documents to deconstruct these 5 myths by examining how they came about and who they benefit: 1. All the ethnic groups were happily united under the rule of the Burmans before the British colonized the region. 2. There are 8 national races and 135 ethnic groups indigenous to Myanmar. 3. All the national races agreed to unify in the Panglong Agreement. 4. Myanmar is a Buddhist country. 5. The 1962 military coup was necessary to prevent the country from disintegrating.</p>
           <h4 class="module">Module 1 History Curriculum as a Political Tool</h4>
             <h5 class="i1">Lecture</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmZ1SShNVDpCqy8wjUYgj4R1gezrXJV5JQkZBTvA6bLPz6?filename=Lies_My_Teacher_Told_Me_EP1_History_Curriculum_as_a_Political_Tool.m4a">English Audio</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmdpnBfhAaFEXEMZpy9cX2qCz4URnKvfGSf4tEkZmgQb96?filename=Lies_My_Teacher_Told_Me_EP1_History_Curriculum_as_a_Political_Tool.m4a">Burmese Audio</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmPFv645bdJR3yxMR94NGf15hU2ijobwUqa1raj2XfCNKv?filename=Lies_My_Teacher_Told_Me_EP1_History_Curriculum_as_a_Political_Tool.m4a">Jinghpaw Audio</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmZ1SShNVDpCqy8wjUYgj4R1gezrXJV5JQkZBTvA6bLPz6?filename=Lies_My_Teacher_Told_Me_EP1_History_Curriculum_as_a_Political_Tool.m4a">English Audio</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmdpnBfhAaFEXEMZpy9cX2qCz4URnKvfGSf4tEkZmgQb96?filename=Lies_My_Teacher_Told_Me_EP1_History_Curriculum_as_a_Political_Tool.m4a">Burmese Audio</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmPFv645bdJR3yxMR94NGf15hU2ijobwUqa1raj2XfCNKv?filename=Lies_My_Teacher_Told_Me_EP1_History_Curriculum_as_a_Political_Tool.m4a">Jinghpaw Audio</a></p>
             <h5 class="i1">Transcript</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmQyztcXGHACdJqQUxeXAMDEJapKYW5AvWneLGTqaVViS8?filename=Lies_My_Teacher_Told_Me_EP1_History_Curriculum_as_a_Political_Tool.pdf">English Transcript</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmaMgVzuJiftcfRXxBDDngJu997ERFwFNh1gdCTP5YhGVt?filename=Lies_My_Teacher_Told_Me_EP1_History_Curriculum_as_a_Political_Tool.pdf">Burmese Transcript</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmNW1Vn4Y9v7hzE5EDkCRtu3e8fqWuwm8kRorrgoYqjL2Y?filename=Lies_My_Teacher_Told_Me_EP1_History_Curriculum_as_a_Political_Tool.pdf">Jinghpaw Transcript</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmQyztcXGHACdJqQUxeXAMDEJapKYW5AvWneLGTqaVViS8?filename=Lies_My_Teacher_Told_Me_EP1_History_Curriculum_as_a_Political_Tool.pdf">English Transcript</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmaMgVzuJiftcfRXxBDDngJu997ERFwFNh1gdCTP5YhGVt?filename=Lies_My_Teacher_Told_Me_EP1_History_Curriculum_as_a_Political_Tool.pdf">Burmese Transcript</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmNW1Vn4Y9v7hzE5EDkCRtu3e8fqWuwm8kRorrgoYqjL2Y?filename=Lies_My_Teacher_Told_Me_EP1_History_Curriculum_as_a_Political_Tool.pdf">Jinghpaw Transcript</a></p>
           <h4 class="module">Module 2 Myth of a Happily United Precolonial Burma</h4>
             <h5 class="i1">Lecture</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmNa5Vs5L9FXtxBL4WyEJ3rND1yVFrcTB1cUfXakRnSw6J?filename=Lies_My_Teacher_Told_Me_EP2_Myth_of_a_Happily_United_Precolonial_Burma.m4a">English Audio</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmY7sfFR5kxqjBrG33D6xzUpXGL4eNqnoop4B946F5SgVH?filename=Lies_My_Teacher_Told_Me_EP2_Myth_of_a_Happily_United_Precolonial_Burma.m4a">Burmese Audio</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmcQV9LL6GmP874f3CgkdHwuXh279iipAB4xoNVy32iNkC?filename=Lies_My_Teacher_Told_Me_EP2_Myth_of_a_Happily_United_Precolonial_Burma.m4a">Jinghpaw Audio</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmNa5Vs5L9FXtxBL4WyEJ3rND1yVFrcTB1cUfXakRnSw6J?filename=Lies_My_Teacher_Told_Me_EP2_Myth_of_a_Happily_United_Precolonial_Burma.m4a">English Audio</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmY7sfFR5kxqjBrG33D6xzUpXGL4eNqnoop4B946F5SgVH?filename=Lies_My_Teacher_Told_Me_EP2_Myth_of_a_Happily_United_Precolonial_Burma.m4a">Burmese Audio</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmcQV9LL6GmP874f3CgkdHwuXh279iipAB4xoNVy32iNkC?filename=Lies_My_Teacher_Told_Me_EP2_Myth_of_a_Happily_United_Precolonial_Burma.m4a">Jinghpaw Audio</a></p>
             <h5 class="i1">Transcript</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmQHm9m4dM4MqWBgBSEoXyMQpXUBr7ZhtPj51WvGGAg7xX?filename=Lies_My_Teacher_Told_Me_EP2_Myth_of_a_Happily_United_Precolonial_Burma.pdf">English Transcript</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmQRqA2NTGTuiWT4Bzcuxtw8oN1XHMU3ZvnRMW4JGXGhSS?filename=Lies_My_Teacher_Told_Me_EP2_Myth_of_a_Happily_United_Precolonial_Burma.pdf">Burmese Transcript</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmPBLK4cTsRgusDAU76GZan4JzvryoySTsBrh9R9L1fmah?filename=Lies_My_Teacher_Told_Me_EP2_Myth_of_a_Happily_United_Precolonial_Burma.pdf">Jinghpaw Transcript</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmQHm9m4dM4MqWBgBSEoXyMQpXUBr7ZhtPj51WvGGAg7xX?filename=Lies_My_Teacher_Told_Me_EP2_Myth_of_a_Happily_United_Precolonial_Burma.pdf">English Transcript</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmQRqA2NTGTuiWT4Bzcuxtw8oN1XHMU3ZvnRMW4JGXGhSS?filename=Lies_My_Teacher_Told_Me_EP2_Myth_of_a_Happily_United_Precolonial_Burma.pdf">Burmese Transcript</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmPBLK4cTsRgusDAU76GZan4JzvryoySTsBrh9R9L1fmah?filename=Lies_My_Teacher_Told_Me_EP2_Myth_of_a_Happily_United_Precolonial_Burma.pdf">Jinghpaw Transcript</a></p>
           <h4 class="module">Module 3 The Myth of 8 National Races and 135 Ethnic Groups</h4>
             <h5 class="i1">Lecture</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmUqtTgewY7DFkCkjveohfPy4Y5X3bB8NbV41jn7WsqgZL?filename=Lies_My_Teacher_Told_Me_EP3_Myth_of_a_National_Races_and_135_Ethnic_Groups.m4a">English Audio</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmVP9o3rAEdAf57RvpfPeX8WT8guQQG5bx5UUXobhbQMxp?filename=Lies_My_Teacher_Told_Me_EP3_Myth_of_a_National_Races_and_135_Ethnic_Groups.mp3">Burmese Audio</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmZRP1dvSRRkAnn6a8AoXpxrdYEiypZYpwiV7hsQr97HAy?filename=Lies_My_Teacher_Told_Me_EP3_Myth_of_a_National_Races_and_135_Ethnic_Groups.m4a">Jinghpaw Audio</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmUqtTgewY7DFkCkjveohfPy4Y5X3bB8NbV41jn7WsqgZL?filename=Lies_My_Teacher_Told_Me_EP3_Myth_of_a_National_Races_and_135_Ethnic_Groups.m4a">English Audio</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmVP9o3rAEdAf57RvpfPeX8WT8guQQG5bx5UUXobhbQMxp?filename=Lies_My_Teacher_Told_Me_EP3_Myth_of_a_National_Races_and_135_Ethnic_Groups.mp3">Burmese Audio</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmZRP1dvSRRkAnn6a8AoXpxrdYEiypZYpwiV7hsQr97HAy?filename=Lies_My_Teacher_Told_Me_EP3_Myth_of_a_National_Races_and_135_Ethnic_Groups.m4a">Jinghpaw Audio</a></p>
             <h5 class="i1">Transcript</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmP7rNwTCf6Y1gMCnrtfyV8dedwucF5PTVCsDm5vTqHWW6?filename=Lies_My_Teacher_Told_Me_EP3_Myth_of_a_National_Races_and_135_Ethnic_Groups.pdf">English Transcript</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmSDsfiTqxiiJNmYdCPW4wSfdQC19zrC9CKv6t5sbJMVH2?filename=Lies_My_Teacher_Told_Me_EP3_Myth_of_a_National_Races_and_135_Ethnic_Groups.pdf">Burmese Transcript</a></p>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmXH6FDyUZ2cBhDnvH3ioJjm3FpmhtVwMLQz1zLaMWPoFy?filename=Lies_My_Teacher_Told_Me_EP3_Myth_of_a_National_Races_and_135_Ethnic_Groups.pdf">Jinghpaw Transcript</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmP7rNwTCf6Y1gMCnrtfyV8dedwucF5PTVCsDm5vTqHWW6?filename=Lies_My_Teacher_Told_Me_EP3_Myth_of_a_National_Races_and_135_Ethnic_Groups.pdf">English Transcript</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmSDsfiTqxiiJNmYdCPW4wSfdQC19zrC9CKv6t5sbJMVH2?filename=Lies_My_Teacher_Told_Me_EP3_Myth_of_a_National_Races_and_135_Ethnic_Groups.pdf">Burmese Transcript</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmXH6FDyUZ2cBhDnvH3ioJjm3FpmhtVwMLQz1zLaMWPoFy?filename=Lies_My_Teacher_Told_Me_EP3_Myth_of_a_National_Races_and_135_Ethnic_Groups.pdf">Jinghpaw Transcript</a></p>
           <h4 class="module">Module 4 The Myth of Panglong</h4>
             <h5 class="i1">Lecture</h5>
               <p class="i2"><a href="https://ipfs.io/ipfs/QmaJtAAw7iCZMK6exAhfsCvgwf7mQxhZ337VD6vvTmycaD?filename=Lies_My_Teacher_Told_Me_EP4_Myth_of_Panglong.mp3">English Audio</a></p>
