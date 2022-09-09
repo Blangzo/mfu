@@ -57,5 +57,9 @@
 				<td><a href="catalogue/intro_to_comparative_federalism.php">Intro to Comparative Federalism</a></td>
 				<td>Name Withheld</td>
 			</tr>
+			<tr>
+				<td><a href="catalogue/peace_education.php">Peace Education</a></td>
+				<td>Dr. Mary Shepard Wong, Azusa Pacific University</td>
+			</tr>
    </tbody>
  </table>
