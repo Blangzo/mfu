@@ -3,7 +3,9 @@
       <div class="mb-2 mt-3">
         <h3 class="course">Peace Education</h3>
           <h5 class="i1">By Dr. Mary Shepard Wong, Azusa Pacific University</h5>
-
+          <h5 class="i1">Course Abstract</h5>
+          <p class="i2">In this course, students learn why peace and social justice education is so important, the essentials of what it involves, and how to design it. Students are taught the course design process: 1. articulating their beliefs about learning, teaching, and peace/social justice education, 2. anticipating needs of their targeted population and analysis of the context, 3. designing SMART learning outcomes; 4. locating, selecting, adapting and creating materials; 5. organizing and scaffolding the content, and 6. creating formative and summative assessment plans. Students are led through the process of applying this process to their own peace / social justice course designed for a specific population. Finally, challenges are anticipated and potential solutions suggested through working through critical incidents. By the end of the course, students will be able to describe the six steps of program design and apply them in the design of a course that teaches for peace and social justice.
+          </p>
           <h4 class="module">Module 1</h4>
             <h5 class="i1">Lectures</h5>
               <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmWLXcSEDfxFM9jvAHkJ616rc9GUenxJ3XjZYurNxYbHLt">English Audio</a></p>
