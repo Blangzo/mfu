@@ -80,5 +80,6 @@
 
           <h4 class="module">Appendix</h4>
             <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmcTcY8kmYv2o19Vwz1upujPqRayJMcDCHcZeZn3YXAGe8">English Appendix Quiz, Answer Key, Rubric</a></p>
+            <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmPrk8meRKt6NAcXs953jmVZdp2aTCEbUXU4uPWRysJxVw">Burmese Appendix Quiz, Answer Key, Rubric</a></p>
       </div>
   </div>
