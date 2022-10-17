@@ -41,32 +41,32 @@
       <div class="mb-2 mt-3">
         <h3 class="course">Early Childhood Development</h3>
           <h5 class="i1">Course Guide</h5>
-            <p class="i2"><a href="https://ipfs.io/ipfs/QmRVMkQPaxrtkdtQERGPcocDWicctQYSXiNQDQh2dDBMLg?filename=Guidelines%2520for%2520child_development%2520short%2520course.pdf">Guidelines for childhood development short course</a></p>
+            <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmRVMkQPaxrtkdtQERGPcocDWicctQYSXiNQDQh2dDBMLg?filename=Guidelines%2520for%2520child_development%2520short%2520course.pdf">Guidelines for childhood development short course</a></p>
           <h4 class="module">Module 1</h4>
             <h5 class="i1">Lecture</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmXMHRVQVC3GUTzb2n1D92JTeyFb5DkkXTQaGqqSx7CYmk/Lecture_1/L1.mp4">Audio</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmXMHRVQVC3GUTzb2n1D92JTeyFb5DkkXTQaGqqSx7CYmk/Lecture_1/L1.mp4">Audio</a></p>
             <h5 class="i1">Transcript</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmXMHRVQVC3GUTzb2n1D92JTeyFb5DkkXTQaGqqSx7CYmk/Lecture_1/Transcript_L1.pdf">Transcript</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmXMHRVQVC3GUTzb2n1D92JTeyFb5DkkXTQaGqqSx7CYmk/Lecture_1/Transcript_L1.pdf">Transcript</a></p>
           <h4 class="module">Module 2</h4>
             <h5 class="i1">Lecture</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmXMHRVQVC3GUTzb2n1D92JTeyFb5DkkXTQaGqqSx7CYmk/Lecture_2/L2.mp4">Audio</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmXMHRVQVC3GUTzb2n1D92JTeyFb5DkkXTQaGqqSx7CYmk/Lecture_2/L2.mp4">Audio</a></p>
             <h5 class="i1">Transcript</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmXMHRVQVC3GUTzb2n1D92JTeyFb5DkkXTQaGqqSx7CYmk/Lecture_2/Transcript_L2.pdf">Transcript</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmXMHRVQVC3GUTzb2n1D92JTeyFb5DkkXTQaGqqSx7CYmk/Lecture_2/Transcript_L2.pdf">Transcript</a></p>
           <h4 class="module">Module 3</h4>
             <h5 class="i1">Lecture</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmXMHRVQVC3GUTzb2n1D92JTeyFb5DkkXTQaGqqSx7CYmk/Lecture_3/L3.mp4">Audio</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmXMHRVQVC3GUTzb2n1D92JTeyFb5DkkXTQaGqqSx7CYmk/Lecture_3/L3.mp4">Audio</a></p>
             <h5 class="i1">Transcript</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmXMHRVQVC3GUTzb2n1D92JTeyFb5DkkXTQaGqqSx7CYmk/Lecture_3/Transcript_L3.pdf">Transcript</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmXMHRVQVC3GUTzb2n1D92JTeyFb5DkkXTQaGqqSx7CYmk/Lecture_3/Transcript_L3.pdf">Transcript</a></p>
           <h4 class="module">Module 4</h4>
             <h5 class="i1">Lecture</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmXMHRVQVC3GUTzb2n1D92JTeyFb5DkkXTQaGqqSx7CYmk/Lecture_4/L4.mp4">Audio</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmXMHRVQVC3GUTzb2n1D92JTeyFb5DkkXTQaGqqSx7CYmk/Lecture_4/L4.mp4">Audio</a></p>
             <h5 class="i1">Transcript</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmXMHRVQVC3GUTzb2n1D92JTeyFb5DkkXTQaGqqSx7CYmk/Lecture_4/Transcript_L4.pdf">Transcript</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmXMHRVQVC3GUTzb2n1D92JTeyFb5DkkXTQaGqqSx7CYmk/Lecture_4/Transcript_L4.pdf">Transcript</a></p>
           <h4 class="module">Module 5</h4>
             <h5 class="i1">Lecture</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmXMHRVQVC3GUTzb2n1D92JTeyFb5DkkXTQaGqqSx7CYmk/Lecture_5/L5.mp4">Audio</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmXMHRVQVC3GUTzb2n1D92JTeyFb5DkkXTQaGqqSx7CYmk/Lecture_5/L5.mp4">Audio</a></p>
             <h5 class="i1">Transcript</h5>
-              <p class="i2"><a href="https://ipfs.io/ipfs/QmXMHRVQVC3GUTzb2n1D92JTeyFb5DkkXTQaGqqSx7CYmk/Lecture_5/Transcript_L5.pdf">Transcript</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmXMHRVQVC3GUTzb2n1D92JTeyFb5DkkXTQaGqqSx7CYmk/Lecture_5/Transcript_L5.pdf">Transcript</a></p>
       </div>
   </div>
   <form class="course">
