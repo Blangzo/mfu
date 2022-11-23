@@ -7,7 +7,7 @@
             <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmaZmKuAyajhoqreeSoTtLjXFLBYoJXDPu2WSDtPGPmF96/Learning_by_playing_0-12.pdf">Guidelines for Learning by Playing course 0-12 months</a></p>
           <h5 class="i1">Course Guide for 12-24 months (modules 9-17)</h5>
             <p class="i2">25-36 months not yet ready</p>
-            <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmYGKtNY6q7FCRK84mGc8RVqdH5WVzoTJmzHnmtibdJJSR/Learning_by_playing_Guide_12-24.pdf">Guidelines for Learning by Playing course 12-24 months</a></p>
+            <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmaQaNB5q7aAhywRPWp2qpmhAPFvgKjppGcHiBCgVcEMJW/Learning_by_playing_Guide_12-24.pdf">Guidelines for Learning by Playing course 12-24 months</a></p>
           <h5 class="i1">ကလေးတိုင်းဖွံဖြိုးခွင့်ရှိသည် (Every child has the right to develop)</h5>
             <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmRMQydPye7hxY4hgRuQ2srmpWNYyi6ZMu1g4aJeHiH4yr?filename=ကလေးတိုင်းဖွံ့ဖြိုးခွင့်ရှိသည်.mp3">audio</a></p>
             <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmZxLKNhWTVhXWz2FFgVTdTqVhi7mywz3ZYEWidLETHdLu?filename=ကလေးတိုင်းဖွံ့ဖြိုးခွင့်ရှိသည်.pdf">transcript</a></p>
