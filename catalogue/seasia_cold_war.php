@@ -43,7 +43,7 @@
           <p><a href="https://mfu.mypinata.cloud/ipfs/QmSFyejY4AeLW4zP1sxf8KsdLi4Rid5SQ9epojZ9srQgLr?filename=SEAsia_Cold_War.zip">Zip File</a></p>
             <h5 class="i1">Lectures</h5>
               <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmUTngUWXQwjehSaXPWWfS7hj8L4PUNBZfyn2kDMkyLY5K?filename=Cold_war_SEAsia_1.mp3">Audio in Burmese</a></p>
-              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmPSfqYHyBmbGXfKwXcYr3GdM9NqhLrzkrsgExuLSho9V8?filename=communism-and-nationalism-in-burma.pdf">Transcript in Burmese</a></p>
+              <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmU8nqfdPqLzSjaD4N7PbuwGkFmaicUTFLRNjUtazGHsmW?filename=Cold_war_SEAsia_1.pdf">Transcript in Burmese</a></p>
             <h5 class="i1">Case Studies & Readings</h5>
               <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmXCpLqvS7oFrVgxDA6jP3X1zmgSPSuFvRkcscsAnoJovm?filename=Political_Elites_in_Colonial_SEAsia.pdf">Political Elites in Colonial SEAsia</a></p>
               <p class="i2"><a href="https://mfu.mypinata.cloud/ipfs/QmPSfqYHyBmbGXfKwXcYr3GdM9NqhLrzkrsgExuLSho9V8?filename=communism-and-nationalism-in-burma.pdf">Communism and Nationalism in Burma</a></p>
